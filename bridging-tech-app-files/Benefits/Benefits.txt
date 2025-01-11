@@ -1,0 +1,50 @@
+import './Benefits.css';
+import { ReactComponent as Book } from '../../assets/book.svg';
+import { ReactComponent as World } from '../../assets/world.svg';
+import { ReactComponent as Reward } from '../../assets/reward.svg';
+
+const Benefits = () => {
+  return (
+    <>
+      <div className='background-container1'>
+        <div className='statement-container'>
+          <h1 className='statement'>
+            BRIDGING THE DIGITAL DIVIDE AND MAKING TEACHING COMPUTER SKILLS TO
+            KIDS FUN!
+          </h1>
+        </div>
+
+        <div className='icons-container'>
+          <div className='icon'>
+            <Book />
+            {/* <img className='book-image' src={book} alt='Book' /> */}
+            <div className='icon-title'>Learn Better</div>
+            <div className='icon-description'>
+              Students get hands-on learning and improve their skills.
+            </div>
+          </div>
+
+          <div className='icon'>
+            <Reward />
+            {/* <img src={reward} alt='Scroll' /> */}
+            <div className='icon-title'>Get Rewarded for Learning</div>
+            <div className='icon-description'>
+              Students will get rewarded for completing modules.
+            </div>
+          </div>
+
+          <div className='icon'>
+            <World />
+            {/* <img src={world} alt='World' style={{ height: '110px' }} /> */}
+            <div className='icon-title'>Connect to Resources</div>
+            <div className='icon-description'>
+              Join the global Community to connect to the best resources.
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default Benefits;

@@ -1,0 +1,99 @@
+import React from 'react';
+import { ReactComponent as TeachingOwl } from '../../assets/teaching-owl.svg';
+import OnlinePrivacy from '../../assets/OnlinePrivacy.png';
+import OnlineFriends from '../../assets/OnlineFriends.png';
+import PasswordSafety from '../../assets/PasswordSafety.png';
+import OnlineFacts from '../../assets/OnlineFacts.png';
+import BeingFriendsOnline from '../../assets/BeingFriendsOnline.png';
+import OnlineBullying from '../../assets/Online Bullying.png';
+import InternetOveruse from '../../assets/InternetOveruse.png';
+import CourseModule from '../CourseModule/CourseModule';
+import LessonCardsBg from '../LessonCardsBg';
+import './LessonCardSectionOne.css';
+
+const LessonCards: React.FC = () => {
+  return (
+    <>
+      <LessonCardsBg />
+
+      <div className='introduction-container'>
+        <TeachingOwl />
+        <h1 className='title'>Kids' Computer Literacy Lessons Grades K-5</h1>
+        <h2 className='description'>
+          Learning Starts Here. Discover fun ways to learn computer literacy
+          now!
+        </h2>
+      </div>
+
+      <div className='courses-container'>
+        <CourseModule
+          image={OnlinePrivacy}
+          imageLink='https://drive.google.com/file/d/1EgJ0XAFNrvcIY_Xfx-iFueWt9hRB3v8L/preview'
+          points='+100 POINTS'
+          title='Online Privacy for Kids'
+          titleLink='https://drive.google.com/file/d/1EgJ0XAFNrvcIY_Xfx-iFueWt9hRB3v8L/preview'
+          description='Did you know that you can choose what to share about yourself online? Watch to learn more.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={PasswordSafety}
+          imageLink='https://drive.google.com/file/d/16EhJ05B5bGb65XJsYl2mC4o32BjveQ4P/preview'
+          points='+100 POINTS'
+          title='Password Safety'
+          titleLink='https://drive.google.com/file/d/16EhJ05B5bGb65XJsYl2mC4o32BjveQ4P/preview'
+          description='Watch this video to learn about protecting your password information from others.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={OnlineFriends}
+          imageLink='https://drive.google.com/file/d/1QoIZcxzRmvAQBSGZHApmHj13-2XYBaC6/preview'
+          points='+100 POINTS'
+          title='Online Friends'
+          titleLink='https://drive.google.com/file/d/1QoIZcxzRmvAQBSGZHApmHj13-2XYBaC6/preview'
+          description='It is nice to meet new friends online, but how do we know who is real? Watch to learn more.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={OnlineFacts}
+          imageLink='https://drive.google.com/file/d/1BXXFhcAjsCEDDagYrzNZfNu6t2cQ_XsW/preview'
+          points='+100 POINTS'
+          title='Finding Facts Online'
+          titleLink='https://drive.google.com/file/d/1BXXFhcAjsCEDDagYrzNZfNu6t2cQ_XsW/preview'
+          description='We are always learning new information from the world, How can we tell what is true or not? Watch to learn more.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={BeingFriendsOnline}
+          imageLink='https://drive.google.com/file/d/1AYijf_r6OysNa4d45V0n4SwvH-Xb2Kt6/preview'
+          points='+100 POINTS'
+          title='Be a Friend to Others'
+          titleLink='https://drive.google.com/file/d/1AYijf_r6OysNa4d45V0n4SwvH-Xb2Kt6/preview'
+          description='It is important to treat others how we would like to be treated online, Watch to learn more.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={OnlineBullying}
+          imageLink='https://drive.google.com/file/d/1cBqGx62gHioccX0LWeRrpXCwKyiFaiwt/preview'
+          points='+100 POINTS'
+          title='Online Bullies'
+          titleLink='https://drive.google.com/file/d/1cBqGx62gHioccX0LWeRrpXCwKyiFaiwt/preview'
+          description='Sometimes you will meet negative people online. It is important to not allow them to affect you, Watch to learn more.'
+          time='~ 1 min'
+        />
+
+        <CourseModule
+          className='Internet-Use'
+          image={InternetOveruse}
+          imageLink='https://drive.google.com/file/d/1dx1c0lGfD-AM0Xf9vQgFm2T1y6x-FnaM/preview'
+          points='+100 POINTS'
+          title='Internet Overuse'
+          titleLink='https://drive.google.com/file/d/1dx1c0lGfD-AM0Xf9vQgFm2T1y6x-FnaM/preview'
+          description='It is important to be mindful of our internet usage habits to stay healthy, Watch to learn more.'
+          time='~ 1 min'
+        />
+      </div>
+    </>
+  );
+};
+
+export default LessonCards;

@@ -1,0 +1,131 @@
+import React, { FormEvent, useState } from 'react';
+import './SignupPage.css';
+import CloudsImage from '../assets/CloudsImage.png';
+import young_lady from '../assets/aiUpscaledYoungLady.png';
+import SignUpButton from './SignUpButton';
+import axios from 'axios';
+
+const Signup: React.FC = () => {
+  const [formData, setFormData] = useState({
+    firstInitial: '',
+    lastInitial: '',
+    userName: '',
+    password: '',
+  });
+
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const { name, value } = event.target;
+    setFormData({
+      ...formData,
+      [name]: value,
+    });
+  };
+
+  const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+
+    const config = {
+      method: 'post',
+      url: `${import.meta.env.VITE_APP_BASE_URL}/api/auth/login`,
+      data: { ...formData },
+    };
+
+    try {
+      const response = await axios(config);
+      alert('You have successfully signed up!');
+      return response;
+    } catch (error) {
+      alert('Unable to sign up!');
+      console.log(error);
+    }
+  };
+
+  return (
+    <div
+      style={{
+        // top: '76px',
+        // left: '1413.11px',
+        width: '100%',
+        height: '100%',
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        zIndex: '-1',
+        backgroundImage: `url(${CloudsImage})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+        backgroundColor: '#CDEBFB',
+      }}
+    >
+      <div className='split-screen-container'>
+        <div className='image-container'>
+          <img src={young_lady} alt='Young Lady with Laptop' />
+        </div>
+        <div className='sign-up-container'>
+          <div className='header'>
+            <div className='text'>Sign up to start your journey!</div>
+          </div>
+
+          <form onSubmit={handleSubmit}>
+            <div className='inputs'>
+              <div className='input-container'>
+                <label>First Initial</label>
+                <div className='input'>
+                  <input
+                    type='text'
+                    name='firstInitial'
+                    value={formData.firstInitial}
+                    onChange={handleChange}
+                  />
+                </div>
+              </div>
+
+              <div className='input-container'>
+                <label>Last Initial</label>
+                <div className='input'>
+                  <input
+                    type='text'
+                    name='lastInitial'
+                    value={formData.lastInitial}
+                    onChange={handleChange}
+                  />
+                </div>
+              </div>
+
+              <div className='input-container'>
+                <label>User Name</label>
+                <div className='input'>
+                  <input
+                    type='text'
+                    name='userName'
+                    value={formData.userName}
+                    onChange={handleChange}
+                  />
+                </div>
+              </div>
+
+              <div className='input-container'>
+                <label>Password</label>
+                <div className='input'>
+                  <input
+                    type='password'
+                    name='password'
+                    value={formData.password}
+                    onChange={handleChange}
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div className='submit-container'>
+              <SignUpButton />
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Signup;

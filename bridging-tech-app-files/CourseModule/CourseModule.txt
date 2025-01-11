@@ -1,0 +1,132 @@
+import React, { SyntheticEvent, useState } from 'react';
+import './CourseModule.css';
+import { ReactComponent as FavoriteButton } from '../../assets/favorite-button.svg';
+import { ReactComponent as PlayButton } from '../../assets/play-button.svg';
+import usePoints from './usePoints';
+
+import ModalVideo from 'react-modal-video';
+import 'react-modal-video/scss/modal-video.scss';
+
+interface CourseModuleProps {
+  className?: string;
+  title: string;
+  description: string;
+  time: string;
+  points: string;
+  image: string;
+  imageLink: string;
+  titleLink: string;
+  userId?: string;
+}
+
+interface VideoHost {
+  channel: 'youtube' | 'custom';
+  videoUrl: string;
+}
+
+const CourseModule: React.FC<CourseModuleProps> = ({
+  className,
+  title,
+  titleLink,
+  description,
+  time,
+  points,
+  image,
+  imageLink,
+  userId,
+}) => {
+  const { givePointsForVideo } = usePoints({ userId });
+
+  const [modalOpen, setModalOpen] = useState(false);
+  const [videoHost, setVideoHost] = useState<VideoHost>({
+    channel: 'custom',
+    videoUrl: '',
+  });
+
+  const handleVideoClick = (event: SyntheticEvent) => {
+    event.preventDefault();
+
+    const youtubePattern =
+      /(?:youtube\.com\/(?:[^/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+    const match = titleLink.match(youtubePattern);
+
+    if (match) {
+      setVideoHost({ channel: 'youtube', videoUrl: match[1] });
+    } else {
+      setVideoHost({ channel: 'custom', videoUrl: titleLink });
+    }
+
+    setModalOpen(true);
+
+    if (userId) {
+      givePointsForVideo(titleLink);
+    } else {
+      console.log('Not logged in, no points awarded.');
+    }
+  };
+
+  return (
+    <div className={`module-container ${className || ''}`}>
+      <div className='top-half' onClick={() => setModalOpen(true)}>
+        {imageLink ? (
+          <a
+            href={imageLink}
+            target='_blank'
+            rel='noopener noreferrer'
+            onClick={handleVideoClick}
+          >
+            {image && <img src={image} alt={title} />}
+          </a>
+        ) : (
+          image && <img src={image} alt={title} />
+        )}
+      </div>
+
+      <div className='bottom-half'>
+        <h4 className='points'>{points}</h4>
+        {titleLink ? (
+          <a
+            href={titleLink}
+            className='title'
+            onClickCapture={(e) => e.preventDefault()}
+            target='_blank'
+            rel='noopener noreferrer'
+            onClick={handleVideoClick}
+          >
+            {title}
+          </a>
+        ) : (
+          <h3 className='title'>{title}</h3>
+        )}
+        <h3 className='description'>{description}</h3>
+
+        <div className='bottom-row'>
+          <h4 className='time'>{time}</h4>
+          <button className='star-button'>
+            <FavoriteButton />
+          </button>
+          <button className='play-button'>
+            <PlayButton />
+          </button>
+        </div>
+      </div>
+      {videoHost.channel == 'youtube' ? (
+        <ModalVideo
+          channel='youtube'
+          videoId={videoHost.videoUrl}
+          isOpen={modalOpen}
+          onClose={() => setModalOpen(false)}
+        />
+      ) : (
+        <ModalVideo
+          channel='custom'
+          url={videoHost.videoUrl}
+          isOpen={modalOpen}
+          onClose={() => setModalOpen(false)}
+        />
+      )}
+    </div>
+  );
+};
+
+export default CourseModule;

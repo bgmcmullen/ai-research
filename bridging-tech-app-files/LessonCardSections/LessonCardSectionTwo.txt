@@ -1,0 +1,82 @@
+import React from 'react';
+import { ReactComponent as ReadingOwl } from '../../assets/reading-owl.svg';
+import testImage from '../../assets/test-image.png';
+import CourseModule from '../CourseModule/CourseModule';
+import LessonCards2Bg from '../LessonCards2Bg';
+import './LessonCardSectionTwo.css';
+
+const LessonCards: React.FC = () => {
+  return (
+    <>
+      <LessonCards2Bg />
+
+      <div className='introduction-container'>
+        <ReadingOwl />
+        <h1 className='title'>Kids' Computer Literacy Lessons Grades 6-12</h1>
+        <h2 className='description'>
+          Learning Starts Here. Discover fun ways to learn computer literacy
+          now!
+        </h2>
+      </div>
+
+      <div className='courses-container'>
+        <CourseModule
+          image={testImage}
+          imageLink='https://drive.google.com/file/d/1EgJ0XAFNrvcIY_Xfx-iFueWt9hRB3v8L/preview'
+          points='+100 POINTS'
+          title='Online Privacy for Kids'
+          titleLink='https://drive.google.com/file/d/1EgJ0XAFNrvcIY_Xfx-iFueWt9hRB3v8L/preview'
+          description='Did you know that you can choose what to share about yourself online? Watch to learn more.'
+          time='~ 1 min'
+        />
+        <CourseModule
+          image={testImage}
+          imageLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          points='+100 POINTS'
+          title='Internet Safety for Kids K-3'
+          titleLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          description='Watch a video to learn about internet safety for kids K-3.'
+          time='~ 20 mins'
+        />
+        <CourseModule
+          image={testImage}
+          imageLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          points='+100 POINTS'
+          title='Internet Safety for Kids K-3'
+          titleLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          description='Watch a video to learn about internet safety for kids K-3.'
+          time='~ 20 mins'
+        />
+        <CourseModule
+          image={testImage}
+          imageLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          points='+100 POINTS'
+          title='Internet Safety for Kids K-3'
+          titleLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          description='Watch a video to learn about internet safety for kids K-3.'
+          time='~ 20 mins'
+        />
+        <CourseModule
+          image={testImage}
+          imageLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          points='+100 POINTS'
+          title='Internet Safety for Kids K-3'
+          titleLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          description='Watch a video to learn about internet safety for kids K-3.'
+          time='~ 20 mins'
+        />
+        <CourseModule
+          image={testImage}
+          imageLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          points='+100 POINTS'
+          title='Internet Safety for Kids K-3'
+          titleLink='https://www.youtube.com/watch?v=89eCHtFs0XM&ab_channel=IndianaUniversityofPennsylvania'
+          description='Watch a video to learn about internet safety for kids K-3.'
+          time='~ 20 mins'
+        />
+      </div>
+    </>
+  );
+};
+
+export default LessonCards;

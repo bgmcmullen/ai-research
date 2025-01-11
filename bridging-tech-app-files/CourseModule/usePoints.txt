@@ -1,0 +1,31 @@
+import { useCallback } from 'react';
+import axios from 'axios';
+
+// MVP: Custom hook that handles PUT request when a video link is clicked.
+
+interface UsePointsOptions {
+  userId?: string;
+}
+
+const usePoints = ({ userId }: UsePointsOptions) => {
+  const givePointsForVideo = useCallback(
+    async (videoLink: string) => {
+      try {
+        const response = await axios.put(`/api/${userId}/watch_video`, {
+          videoLink,
+        });
+        console.log(
+          'Points awarded for watching educational video:',
+          response.data
+        );
+      } catch (error) {
+        console.error('Error updating points:', error);
+      }
+    },
+    [userId]
+  );
+
+  return { givePointsForVideo };
+};
+
+export default usePoints;

@@ -1,0 +1,25 @@
+/* eslint-disable react-refresh/only-export-components */
+/// <reference types="vite-plugin-svgr/client" />
+// import './Landing.css';
+import TextComponent from './UserIntroText';
+import AnimalIcons from './AnimalIcons';
+
+const LandingPage = () => {
+  return (
+    <div
+      style={{
+        width: '0',
+        height: '100vh',
+        position: 'relative',
+        zIndex: 1,
+        display: 'flex',
+      }}
+    >
+      <TextComponent />
+      {/* <div style={{ position: 'relative', top: '120px', }}></div> */}
+      <AnimalIcons />
+    </div>
+  );
+};
+
+export default LandingPage;

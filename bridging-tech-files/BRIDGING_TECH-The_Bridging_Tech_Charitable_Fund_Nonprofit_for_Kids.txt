@@ -1,0 +1,1671 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)https://www.bridgingtech.org/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>BRIDGING TECH - The Bridging Tech Charitable Fund | Nonprofit for Kids</title><meta property="og:site_name" content="BRIDGING TECH">
+<meta property="og:title" content="The Bridging Tech Charitable Fund | Nonprofit for Kids">
+<meta property="og:description" content="There are 12.5 million children in this country who don’t have access to a device suitable for online learning at home. With the ongoing pandemic, remote learning is mandatory, and those most disadvantaged are left further behind. Bridging Tech is a nonpr">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/editor/big-boy-logo.png?250">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/best-child-with-laptop-image_orig.jpg">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/editor/gold-seal-2023.png?1702362899">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/edited/bridging-tech-logo.png?1699590719">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/img-7764_orig.jpeg">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/image0-1.jpeg">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/20230527-121659_orig.jpg">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/20230527-123836_orig.jpg">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/published/bridging-tech-logo.png?1614875530">
+<meta property="og:image" content="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/editor/clipart1862574.png?1608411485">
+<meta property="og:url" content="https://www.bridgingtech.org/">
+
+<meta name="description" content="There are 12.5 million children in this country who don’t have access to a device suitable for online learning at home. With the ongoing pandemic, remote learning is mandatory, and those most disadvantaged are left further behind. Bridging Tech is a nonpr">
+<meta name="keywords" content="Bridging Tech, bridging technology, donate old devices, give laptop, donate, charity, give, donation, devices, donate devices, old devices, tech, technology, computers, laptops, tablets, Chromebooks, children, kids, Bay Area, San Francisco, San Jose">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/analytics.js"></script><script async="" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/snowday262.js"></script><script type="text/javascript" async="" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/ga.js"></script><script type="text/javascript" async="" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/js"></script><script async="" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-172619020-1');
+</script>
+
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/sites.css">
+<link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/fancybox.css">
+<link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/social-icons.css" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/main_style.css" title="wsite-theme-css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font.css" rel="stylesheet" type="text/css">
+
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(1).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font.css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(2).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(3).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(3).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(3).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(4).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(2).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(3).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(3).css" rel="stylesheet" type="text/css">
+<link href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(5).css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Droid Sans" !important;letter-spacing: 0px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#515151 !important;}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{font-family:"Montserrat" !important;}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Droid Serif" !important;font-style:normal !important;letter-spacing: 0px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#2a2a2a !important;}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{font-family:"Roboto" !important;font-weight:700 !important;}
+#wsite-title {}
+.wsite-menu-default a {font-family:"Roboto" !important;font-weight:700 !important;}
+.wsite-menu a {font-family:"Roboto" !important;}
+.wsite-image div, .wsite-caption {font-family:"Open Sans" !important;}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-family:"Droid Serif" !important;color:#2a2a2a !important;letter-spacing: 0px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-family:"Roboto" !important;text-transform:  none !important;}
+.wsite-button-inner {font-family:"Roboto" !important;font-weight:700 !important;text-transform:  uppercase !important;}
+.wsite-not-footer blockquote {font-family:"Lato" !important;text-transform:  none !important;}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-size:16px !important;line-height:23px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-size:42px !important;line-height:54px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{font-size:10px !important;}
+#wsite-title {}
+.wsite-menu-default a {font-size:14px !important;}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-size:65px !important;line-height:70px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+<link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/font(4).css">
+<style>
+	@font-face {
+		font-family: 'wicons';
+		src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.eot?buildTime=1718373464);
+		src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.eot?buildTime=1718373464#iefix) format('embedded-opentype'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.woff?buildTime=1718373464) format('woff'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.ttf?buildTime=1718373464) format('truetype'),
+				 url(//cdn2.editmysite.com/fonts/wIcons/wicons.svg?buildTime=1718373464#wicons) format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+	/* Hack to smooth out font rendering on Chrome for Windows */
+	@media screen and (-webkit-min-device-pixel-ratio: 0) {
+		@font-face {
+			font-family: 'wicons';
+			src: url(//cdn2.editmysite.com/fonts/wIcons/wicons.svg?buildTime=1718373464#wicons) format('svg');
+		}
+	}
+
+	@font-face {
+		font-family: 'wsocial';
+		src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.eot?buildTime=1718373464);
+		src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.eot?buildTime=1718373464#iefix) format('embedded-opentype'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.woff?buildTime=1718373464) format('woff'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.ttf?buildTime=1718373464) format('truetype'),
+				 url(//cdn2.editmysite.com/fonts/wSocial/wsocial.svg?buildTime=1718373464#wsocial) format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+	/* Hack to smooth out font rendering on Chrome for Windows */
+	@media screen and (-webkit-min-device-pixel-ratio: 0) {
+		@font-face {
+			font-family: 'wsocial';
+			src: url(//cdn2.editmysite.com/fonts/wSocial/wsocial.svg?buildTime=1718373464#wsocial) format('svg');
+		}
+	}
+</style>
+
+<link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/site_membership.css">
+<style type="text/css">#wsite-com-product-images .wsite-imageaspectratio-image-height, .wsite-com-category-product-image-height.wsite-imageaspectratio-image-height, .wsite-product .wsite-imageaspectratio-image-height, .wsite-com-category-product-featured-image-height.wsite-imageaspectratio-image-height { margin-bottom: 66% !important } .wsite-com-category-product-group .wsite-com-column { width: 33.33% !important } .wsite-com-category-product-featured-group .wsite-com-column { width: 25.00% !important } .wsite-com-category-subcategory-group .wsite-com-column { width: 33.33% !important } </style><link rel="stylesheet" type="text/css" href="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/slideshow.css">
+
+		<script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/templateArtifacts.js"></script>
+<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+</script>
+<script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/jquery-1.8.3.min.js"></script>
+
+<script type="text/javascript" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/stl.js"></script>
+<script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/main.js"></script><script type="text/javascript">
+		function initCustomerAccountsModels() {
+					(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/CustomerAccounts\/","actions":{"CustomerAccounts":[{"name":"login","len":2,"multiple":false,"standalone":false},{"name":"logout","len":0,"multiple":false,"standalone":false},{"name":"getSessionDetails","len":0,"multiple":false,"standalone":false},{"name":"getAccountDetails","len":0,"multiple":false,"standalone":false},{"name":"getOrders","len":0,"multiple":false,"standalone":false},{"name":"register","len":4,"multiple":false,"standalone":false},{"name":"emailExists","len":1,"multiple":false,"standalone":false},{"name":"passwordReset","len":1,"multiple":false,"standalone":false},{"name":"passwordUpdate","len":3,"multiple":false,"standalone":false},{"name":"validateSession","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.CustomerAccounts.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":"_W.CustomerAccounts.BackboneModelData","collection_namespace":"_W.CustomerAccounts.BackboneCollectionData","bootstrap_namespace":"_W.CustomerAccounts.BackboneBootstrap","models":{"CustomerAccounts":{"_class":"CustomerAccounts.Model.CustomerAccounts","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"CustomerAccounts":{"_class":"CustomerAccounts.Collection.CustomerAccounts"}},"bootstrap":[]});
+})();
+		}
+		if(document.createEvent && document.addEventListener) {
+			var initEvt = document.createEvent('Event');
+			initEvt.initEvent('customerAccountsModelsInitialized', true, false);
+			document.dispatchEvent(initEvt);
+		} else if(document.documentElement.initCustomerAccountsModels === 0){
+			document.documentElement.initCustomerAccountsModels++
+		}
+		</script>
+		<script type="text/javascript"> _W = _W || {}; _W.securePrefix='www.bridgingtech.org'; </script><script>_W = _W || {};
+			_W.customerLocale = "en_US";
+			_W.storeName = null;
+			_W.isCheckoutReskin = false;
+			_W.storeCountry = "US";
+			_W.storeCurrency = "USD";
+			_W.storeEuPrivacyPolicyUrl = "";
+			com_currentSite = "997528044963189050";
+			com_userID = "132100490";</script><script type="text/javascript"> _W = _W || {}; _W.securePrefix='www.bridgingtech.org'; </script><script type="text/javascript">
+								_W = window._W || {};
+								_W.allowMemberRegistration = false;
+								_W.showLogin = false;
+							</script><script type="text/javascript">
+					function initMembershipModels() {
+						(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/Membership\/","actions":{"Member":[{"name":"getRedirectUrl","len":1,"multiple":false,"standalone":false},{"name":"getOriginUrl","len":0,"multiple":false,"standalone":false},{"name":"getSecureMemberUrl","len":0,"multiple":false,"standalone":false},{"name":"validate_user","len":2,"multiple":false,"standalone":false},{"name":"get_account_information","len":0,"multiple":false,"standalone":false},{"name":"get_session_details","len":0,"multiple":false,"standalone":false},{"name":"register_member","len":5,"multiple":false,"standalone":false},{"name":"validate_session","len":1,"multiple":false,"standalone":false},{"name":"set_password","len":3,"multiple":false,"standalone":false},{"name":"send_reset_password_email","len":1,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.Membership.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.Membership.RPC","model_namespace":"_W.Membership.BackboneModelData","collection_namespace":"_W.Membership.BackboneCollectionData","bootstrap_namespace":"_W.Membership.BackboneBootstrap","models":{"Member":{"_class":"Membership.Model.Member","defaults":{"class_name":null,"name":null,"email":"","access_token":null,"token_expiry_date":null,"last_ip":null,"last_login":null,"approved":false,"password_set":null,"group_ids":null,"page_ids":null,"group_page_ids":null,"owner_id":"","site_id":"","updated_date":0,"created_date":0},"validation":{"class_name":null,"site_member_id":null,"name":null,"email":{"email":null,"required":true},"access_token":null,"token_expiry_date":null,"last_ip":null,"last_login":null,"approved":null,"password_set":null,"group_ids":null,"page_ids":null,"group_page_ids":null,"owner_id":{"required":true},"site_id":{"required":true},"updated_date":null,"created_date":null},"types":{"class_name":null,"site_member_id":"string","name":"string","email":"string","access_token":"string","token_expiry_date":"int","last_ip":"string","last_login":"int","approved":"boolean","password_set":"boolean","group_ids":"json","page_ids":"json","group_page_ids":"json","owner_id":"string","site_id":"string","updated_date":"int","created_date":"int"},"idAttribute":"site_member_id","keydefs":{"PRIMARY":["owner_id","site_id","site_member_id"],"idx_owner_site_account":["owner_id","site_id","site_account_id"]}}},"collections":{"Member":{"_class":"Membership.Collection.Member"}},"bootstrap":[]});
+})();
+					}
+					if(document.createEvent && document.addEventListener) {
+						var initEvt = document.createEvent('Event');
+						initEvt.initEvent('membershipModelsInitialized', true, false);
+						document.dispatchEvent(initEvt);
+					} else if(document.documentElement.initMembershipModels === 0){
+						document.documentElement.initMembershipModels++
+					}
+					</script><script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/main-membership-site.js"></script>
+<script type="text/javascript">
+								_W = _W || {};
+								_W.Commerce = _W.Commerce || {};
+								_W.Commerce.hasCart = false;
+							</script><script> base_context='Site'; base_name='_W'; ASSETS_BASE='cdn2.editmysite.com'; buildTime='1718373464'</script>
+
+<script>function initCommerceModels() { (function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/Commerce\/","actions":{"ABTest":[{"name":"getTestsForVisitor","len":0,"multiple":false,"standalone":false},{"name":"segment","len":1,"multiple":false,"standalone":false}],"ABTestSegmentation":[{"name":"getTestSegments","len":0,"multiple":false,"standalone":false}],"AuthorizedPayments":[{"name":"authorize","len":2,"multiple":false,"standalone":false}],"Category":[{"name":"generateProductList","len":3,"multiple":false,"standalone":false},{"name":"generateMobileProductList","len":2,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Checkout":[{"name":"getOrderAvailabilityAndLocations","len":0,"multiple":false,"standalone":false},{"name":"getOrderByToken","len":1,"multiple":false,"standalone":false},{"name":"getMiniCart","len":0,"multiple":false,"standalone":false},{"name":"getCheckoutUrl","len":0,"multiple":false,"standalone":false},{"name":"initializeCheckoutSession","len":0,"multiple":false,"standalone":false},{"name":"getPayPalNotifyUrl","len":0,"multiple":false,"standalone":false},{"name":"getAuthorizeNetFingerprint","len":0,"multiple":false,"standalone":false},{"name":"getPayPalEcoUrl","len":0,"multiple":false,"standalone":false},{"name":"processPayPalCheckoutDetails","len":0,"multiple":false,"standalone":false},{"name":"getCurrentOrder","len":0,"multiple":false,"standalone":false},{"name":"getPrimaryOrder","len":0,"multiple":false,"standalone":false},{"name":"resetCart","len":0,"multiple":false,"standalone":false},{"name":"getSquareStoreConfig","len":0,"multiple":false,"standalone":false},{"name":"logErrorOnValidOrderCase","len":1,"multiple":false,"standalone":false},{"name":"getShoppingCart","len":0,"multiple":false,"standalone":false},{"name":"addItemToCart","len":2,"multiple":false,"standalone":false},{"name":"addItem","len":3,"multiple":false,"standalone":false},{"name":"getInventory","len":1,"multiple":false,"standalone":false},{"name":"updateItemQuantity","len":3,"multiple":false,"standalone":false},{"name":"updateItemQuantityV2","len":2,"multiple":false,"standalone":false},{"name":"hasCouponsAvailable","len":0,"multiple":false,"standalone":false},{"name":"applyCoupon","len":1,"multiple":false,"standalone":false},{"name":"addReward","len":1,"multiple":false,"standalone":false},{"name":"removeReward","len":1,"multiple":false,"standalone":false},{"name":"removeCoupon","len":1,"multiple":false,"standalone":false},{"name":"isShippable","len":1,"multiple":false,"standalone":false},{"name":"checkCart","len":2,"multiple":false,"standalone":false},{"name":"generateProductList","len":3,"multiple":false,"standalone":false},{"name":"shouldSeePaymentRequestAPI","len":0,"multiple":false,"standalone":false},{"name":"shouldSeeApplePay","len":0,"multiple":false,"standalone":false},{"name":"addTipAmount","len":1,"multiple":false,"standalone":false},{"name":"toggleTextAlert","len":1,"multiple":false,"standalone":false},{"name":"toggleTextAlertForSquareOrder","len":1,"multiple":false,"standalone":false},{"name":"addTipPercentage","len":1,"multiple":false,"standalone":false},{"name":"placeAndCreateNewChildOrder","len":0,"multiple":false,"standalone":false}],"CustomerAddress":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Customer":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Log":[{"name":"notice","len":2,"multiple":false,"standalone":false},{"name":"error","len":2,"multiple":false,"standalone":false}],"OrderBilling":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderFulfillment":[{"name":"setFulfillment","len":1,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderItem":[{"name":"updateQuantity","len":1,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Order":[{"name":"getHash","len":0,"multiple":false,"standalone":false},{"name":"fetchCorrectedCart","len":0,"multiple":false,"standalone":false},{"name":"updateOrderWithLatestDeliveryTime","len":1,"multiple":false,"standalone":false},{"name":"updatePickupTime","len":3,"multiple":false,"standalone":false},{"name":"updateDeliveryTime","len":6,"multiple":false,"standalone":false},{"name":"updatePaymentMethod","len":1,"multiple":false,"standalone":false},{"name":"updateShippingMethod","len":1,"multiple":false,"standalone":false},{"name":"updateOrderBilling","len":1,"multiple":false,"standalone":false},{"name":"updateOrderNotes","len":0,"multiple":false,"standalone":false},{"name":"updateDeliveryDetails","len":1,"multiple":false,"standalone":false},{"name":"updateCustomer","len":2,"multiple":false,"standalone":false},{"name":"addGiftCard","len":1,"multiple":false,"standalone":false},{"name":"removeGiftCard","len":1,"multiple":false,"standalone":false},{"name":"attachLoyaltyAccountId","len":1,"multiple":false,"standalone":false},{"name":"updateUseTimeBasedCategory","len":1,"multiple":false,"standalone":false},{"name":"checkout","len":3,"multiple":false,"standalone":true},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"OrderShipment":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"Product":[{"name":"isInStock","len":2,"multiple":false,"standalone":false},{"name":"readFullText","len":1,"multiple":false,"standalone":false},{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"ShippingRate":[{"name":"create","len":1,"multiple":false,"standalone":false},{"name":"readOne","len":1,"multiple":false,"standalone":false},{"name":"readMany","len":1,"multiple":false,"standalone":false},{"name":"update","len":1,"multiple":false,"standalone":false},{"name":"patch","len":1,"multiple":false,"standalone":false},{"name":"destroy","len":1,"multiple":false,"standalone":false}],"StoredPayment":[{"name":"createPaymentMethodForPayLink","len":5,"multiple":false,"standalone":false}]},"namespace":"_W.Commerce.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.Commerce.RPC","model_namespace":"_W.Commerce.BackboneModelData","collection_namespace":"_W.Commerce.BackboneCollectionData","bootstrap_namespace":"_W.Commerce.BackboneBootstrap","models":{"ABTest":{"_class":"Commerce.Model.ABTest","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"ABTestSegmentation":{"_class":"Commerce.Model.ABTestSegmentation","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"AuthorizedPayments":{"_class":"Commerce.Model.AuthorizedPayments","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"Category":{"_class":"Commerce.Model.Category","defaults":{"shown_in_storefront":false,"site_link":null,"product_count":null,"published":true,"name":"","page_layout":"no-header","page_title":null,"page_description":null,"show_featured_products":true,"show_sub_categories":true,"children_collapsed":false,"hide_from_parent":false,"parent_category_id":null,"category_order":null,"image_order":null,"permalink":null,"product_ids":null,"preferred_order_product_ids":null,"coupon_ids":null,"is_user_defined":"true","og_title":null,"og_description":null,"is_custom_times":false,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"shown_in_storefront":null,"site_link":null,"product_count":null,"site_category_id":null,"published":null,"name":{"required":true},"page_layout":null,"page_title":null,"page_description":null,"show_featured_products":null,"show_sub_categories":null,"children_collapsed":null,"hide_from_parent":null,"parent_category_id":null,"category_order":null,"image_order":null,"permalink":{"pattern":"^[\\w\\\/.-]*$","required":false},"product_ids":null,"preferred_order_product_ids":null,"coupon_ids":null,"is_user_defined":null,"og_title":null,"og_description":null,"is_custom_times":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"shown_in_storefront":"boolean","site_link":"string","product_count":null,"site_category_id":"string","published":"boolean","name":"string","page_layout":"string","page_title":"string","page_description":"string","show_featured_products":"boolean","show_sub_categories":"boolean","children_collapsed":"boolean","hide_from_parent":"boolean","parent_category_id":null,"category_order":"integer","image_order":"json","permalink":"string","product_ids":"json","preferred_order_product_ids":"json","coupon_ids":"json","is_user_defined":"boolean","og_title":"string","og_description":"string","is_custom_times":"boolean","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_category_id","keydefs":{"PRIMARY":["owner_id","site_id","site_category_id"],"uuid_index":["id"],"updated_at":["updated_date"],"import_batch_id":["owner_id","site_id","import_batch_id"]},"relations":[{"type":"HasMany","key":"images","foreignKey":["owner_id","site_id","site_category_id"],"parse":true,"relatedModel":"CategoryImage","reverseRelation":{"key":null,"includeInJSON":false}}]},"Checkout":{"_class":"Commerce.Model.Checkout","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"CustomerAddress":{"_class":"Commerce.Model.CustomerAddress","defaults":{"site_customer_id":null,"label":"","is_copy":false,"name_first":null,"name_last":null,"business_name":"","street":"","street2":null,"postal_code":"","city":"","region":"","country":"","phone_country_code":"","phone_country_code_abbreviation":null,"phone":null,"changedAddressComponents":null,"latitude":null,"longitude":null,"full_buyer_location_info":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"site_customer_id":null,"site_customer_address_id":null,"label":{"required":true},"is_copy":null,"name_first":null,"name_last":null,"business_name":null,"street":null,"street2":null,"postal_code":null,"city":null,"region":null,"country":null,"phone_country_code":null,"phone_country_code_abbreviation":null,"phone":null,"changedAddressComponents":null,"latitude":null,"longitude":null,"full_buyer_location_info":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"site_customer_id":"string","site_customer_address_id":"int","label":"string","is_copy":null,"name_first":"string","name_last":"string","business_name":"string","street":"string","street2":"string","postal_code":"string","city":"string","region":"string","country":"string","phone_country_code":"string","phone_country_code_abbreviation":"string","phone":"string","changedAddressComponents":"json","latitude":"float","longitude":"float","full_buyer_location_info":"json","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_customer_address_id","keydefs":{"PRIMARY":["owner_id","site_id","site_customer_id","site_customer_address_id"],"uuid_index":["id"],"address":["owner_id","site_id","deleted","country","region","city"],"address_name":["owner_id","site_id","deleted","label"]}},"Customer":{"_class":"Commerce.Model.Customer","defaults":{"name_prefix":null,"name_first":null,"name_last":null,"name_suffix":null,"email":null,"business_name":null,"home_phone":null,"work_phone":null,"pickup_phone":null,"is_marketing_updates_subscribed":null,"square_customer_id":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"site_customer_id":null,"name_prefix":null,"name_first":null,"name_last":null,"name_suffix":null,"email":{"email":null,"required":false},"business_name":null,"home_phone":{"minlength":"7","required":false},"work_phone":{"minlength":"7","required":true},"pickup_phone":{"minlength":"7","required":true},"is_marketing_updates_subscribed":null,"square_customer_id":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"site_customer_id":"string","name_prefix":"string","name_first":"string","name_last":"string","name_suffix":"string","email":"string","business_name":"string","home_phone":"string","work_phone":"string","pickup_phone":"string","is_marketing_updates_subscribed":"boolean","square_customer_id":"string","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_customer_id","keydefs":{"PRIMARY":["owner_id","site_id","site_customer_id"],"uuid_index":["id"],"lastname":["deleted","site_id","name_last"],"email":["deleted","site_id","email"],"business":["deleted","site_id","business_name"],"idx_owner_site_account":["owner_id","site_id","site_account_id"]},"relations":[{"type":"HasMany","key":"addresses","foreignKey":["owner_id","site_id","site_customer_id"],"parse":true,"relatedModel":"CustomerAddress","reverseRelation":{"key":"customer","includeInJSON":false}},{"type":"HasMany","key":"orders","foreignKey":["owner_id","site_id","site_customer_id"],"parse":true,"relatedModel":"Order","reverseRelation":{"key":"original_customer","includeInJSON":false}}]},"Log":{"_class":"Commerce.Model.Log","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"OrderBilling":{"_class":"Commerce.Model.OrderBilling","defaults":{"refundable_amount":null,"site_order_id":null,"is_pending_capture":0,"gateway":"","site_payment_gateway_id":null,"site_customer_id":"","site_customer_address_id":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"updated_date":0,"country":null,"postal_code":null,"uuid":null,"owner_id":"","site_id":"","created_date":0},"validation":{"refundable_amount":null,"site_order_id":null,"is_pending_capture":null,"site_order_billing_id":null,"gateway":{"required":true},"site_payment_gateway_id":null,"site_customer_id":{"required":true},"site_customer_address_id":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"updated_date":null,"country":null,"postal_code":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null},"types":{"refundable_amount":"int","site_order_id":"string","is_pending_capture":"int","site_order_billing_id":"int","gateway":"string","site_payment_gateway_id":"string","site_customer_id":"string","site_customer_address_id":"int","full_name":"string","email":"string","phone":"string","business_name":"string","street":"string","street2":"string","city":"string","region":"string","updated_date":"int","country":"string","postal_code":"string","uuid":null,"owner_id":"string","site_id":"string","created_date":"int"},"idAttribute":"site_order_billing_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_billing_id"],"uuid_index":["id"],"is_pending_capture_index":["is_pending_capture","created_date"]},"relations":[{"type":"HasMany","key":"transactions","foreignKey":["owner_id","site_id","site_order_id","site_order_billing_id"],"parse":true,"relatedModel":"OrderBillingTransaction","reverseRelation":{"key":null,"includeInJSON":false}}]},"OrderFulfillment":{"_class":"Commerce.Model.OrderFulfillment","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null},"OrderItem":{"_class":"Commerce.Model.OrderItem","defaults":{"current_price":null,"discounted_price":null,"product_url":null,"full_product_url":null,"image_info":null,"track_inventory":null,"sku_uuid":null,"site_order_id":null,"site_product_id":"","site_product_sku_id":0,"name":"","short_description":null,"taxable":null,"quantity":1,"paid":0,"prepared":"0","completed":0,"refunded":0,"cancelled":0,"product_type":null,"download_limit_type":null,"download_units_remaining":null,"hide_quantity_selector":false,"measurement_unit_abbreviation":null,"fulfillment_options":null,"product_type_details":null,"is_preordered":null,"preordering_window":null,"buyer_controlled_price":null,"has_buyer_controlled_price":null,"reward_group_id":null,"related_child_items":null,"is_alcoholic":false,"price":null,"sale_price":null,"total_price":0,"modifiers_price":null,"total_modifiers_price":null,"weight":null,"weight_unit":"lb","sku":null,"options":null,"is_order_again":null,"returned":null,"discounts":null,"issued_gift_cards":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"current_price":null,"discounted_price":null,"product_url":null,"full_product_url":null,"image_info":null,"track_inventory":null,"sku_uuid":null,"site_order_id":null,"site_order_item_id":null,"site_product_id":{"required":true},"site_product_sku_id":{"required":true},"name":null,"short_description":null,"taxable":null,"quantity":null,"paid":null,"prepared":null,"completed":null,"refunded":null,"cancelled":null,"product_type":null,"download_limit_type":null,"download_units_remaining":null,"hide_quantity_selector":null,"measurement_unit_abbreviation":null,"fulfillment_options":null,"product_type_details":null,"is_preordered":null,"preordering_window":null,"buyer_controlled_price":{"min":"0","required":false},"has_buyer_controlled_price":null,"reward_group_id":null,"related_child_items":null,"is_alcoholic":null,"price":null,"sale_price":null,"total_price":null,"modifiers_price":null,"total_modifiers_price":null,"weight":null,"weight_unit":null,"sku":null,"options":null,"is_order_again":null,"returned":null,"discounts":null,"issued_gift_cards":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"current_price":"decimal","discounted_price":"decimal","product_url":"string","full_product_url":"string","image_info":"string","track_inventory":"boolean","sku_uuid":"string","site_order_id":"string","site_order_item_id":"string","site_product_id":"string","site_product_sku_id":"int","name":"string","short_description":"mediumtext","taxable":"int","quantity":"int","paid":"int","prepared":"string","completed":"int","refunded":"int","cancelled":"int","product_type":"string","download_limit_type":"string","download_units_remaining":"int","hide_quantity_selector":"boolean","measurement_unit_abbreviation":"array","fulfillment_options":"array","product_type_details":"array","is_preordered":"boolean","preordering_window":"array","buyer_controlled_price":"float","has_buyer_controlled_price":"boolean","reward_group_id":"string","related_child_items":"array","is_alcoholic":"boolean","price":"decimal","sale_price":"decimal","total_price":"decimal","modifiers_price":"decimal","total_modifiers_price":"decimal","weight":"decimal","weight_unit":"string","sku":"string","options":"json","is_order_again":"boolean","returned":"int","discounts":"json","issued_gift_cards":"json","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_order_item_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_item_id"],"uuid_index":["id"],"owner_site_product":["owner_id","site_id","site_product_id"]},"relations":[{"type":"HasMany","key":"shipment_items","foreignKey":["owner_id","site_id","site_order_id","site_order_id"],"parse":true,"relatedModel":"OrderShipmentToItem","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"order_item_file","foreignKey":["owner_id","site_id","site_order_id","site_order_item_id"],"parse":true,"relatedModel":"OrderItemFile","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"original_product_sku_file","foreignKey":["owner_id","site_id","site_product_id","site_product_sku_id"],"parse":true,"relatedModel":"ProductSkuFile","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"square_discounts","foreignKey":["owner_id","site_id","site_order_id","site_order_item_id"],"parse":true,"relatedModel":"OrderItemDiscount","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"modifier_selections","foreignKey":["owner_id","site_id","site_order_id","site_order_item_id"],"parse":true,"relatedModel":"OrderItemModifierSelection","reverseRelation":{"key":null,"includeInJSON":false}}]},"Order":{"_class":"Commerce.Model.Order","defaults":{"order_display_status":null,"order_display_type":null,"order_available_actions_list":null,"order_fulfillment_options":null,"order_fulfillment":null,"is_prepared_enabled":null,"has_preordering_items":null,"has_items_using_fulfillment_preferences":null,"has_location_using_fulfillment_preferences":null,"refundable_amount":null,"is_customer_address_required":null,"is_courier_delivery_enabled":false,"is_otg_in_seat_delivery_enabled":false,"is_group_order":null,"site_customer_id":null,"order_type":"cart","full_name":null,"is_marketing_updates_subscribed":null,"is_eu_user":null,"order_status":"pending","order_currency":"usd","source":"0","source_site_id":"null","is_text_alerts_enabled":false,"order_item_tax_total":null,"order_gift_card_total":null,"order_tax_total":0,"order_tip_total":0,"buyer_entered_tip":false,"auto_calculate_tip_percentage":-1,"auto_calculate_smart_tip":-1,"order_tip_percentage":null,"order_tax_total_subunits":null,"order_balance_due_total":null,"order_balance_due_total_in_subunits":null,"order_tax_rates":null,"include_taxes_in_price":false,"charge_taxes_on_delivery":false,"charge_taxes_on_dine_in":false,"charge_taxes_on_shipping":false,"tax_type":null,"order_shipping_total":0,"order_shipping_taxes_total":0,"order_shipping_subtotal":null,"order_shipping_subtotal_subunits":null,"order_shipping_method":null,"order_subtotal":0,"order_discount_total":null,"order_total":0,"token":null,"paypal_token":null,"paypal_payer_id":null,"refunded_amount":0,"order_paid_date":null,"return_inventory_date":null,"cart_hash":null,"gift_cards":null,"contains_download":null,"contains_service":null,"contains_donation":null,"contains_event":null,"contains_membership":null,"contains_simple_digital":null,"contains_physical":null,"contains_food":null,"contains_giftcard":null,"order_shipment_status":null,"contains_physical_or_similar":null,"order_notes":"","notes_for_buyer":null,"in_seat_delivery_notes":null,"order_transaction_fee":null,"weight":null,"order_shipping_additive_total":0,"default_shipping_profile_total":0,"shipping_additive_rates":null,"unsupported_shipping_additive_rates":null,"has_only_item_level_shipping_items":false,"billing_summary":null,"free_fulfillment_conditions":null,"is_afterpay_order":null,"use_clearpay_brand":null,"selected_payment_method_uuid":null,"payment_method_verification_uuid":null,"loyalty_account_uuid":null,"discounts":null,"pickup_locations":null,"delivery_locations":null,"dine_in_locations":null,"use_square_taxes":null,"store_location_uuid":null,"ordering_site_fulfillment_location":null,"courier_delivery_id":null,"initial_courier_quote_id":null,"courier_quote_id":null,"courier_provider_id":null,"courier_provider_name":null,"courier_provider_support_phone_number":null,"is_courier_default_tip_applied":null,"no_contact_delivery_enabled":false,"order_delivery_fee_total":0,"order_delivery_seller_fee_total":0,"order_courier_delivery_fee_total":0,"order_service_charge_total":0,"order_delivery_restocking_fee_total":0,"ecom_delivery_service_fee_subtotal":0,"ecom_delivery_service_fee_total":0,"ecom_delivery_service_fee_taxes_total":0,"ecom_courier_delivery_service_fee_total":0,"order_delivery_fee_taxes_total":0,"custom_service_charges":null,"time_based_category_enabled":false,"customer_seat_uuid":null,"customer_seat_name":null,"section_time_created":null,"table_time_created":null,"open_order_uuid":null,"has_successful_authorize_billing":null,"has_child_orders":null,"active_child_cart_has_items":null,"parent_order_token":null,"square_marketing_opt_in_type":null,"should_monolith_send_order_email":true,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"order_display_status":null,"order_display_type":null,"order_available_actions_list":null,"order_fulfillment_options":null,"order_fulfillment":null,"is_prepared_enabled":null,"has_preordering_items":null,"has_items_using_fulfillment_preferences":null,"has_location_using_fulfillment_preferences":null,"refundable_amount":null,"is_customer_address_required":null,"is_courier_delivery_enabled":null,"is_otg_in_seat_delivery_enabled":null,"site_order_id":null,"is_group_order":null,"site_customer_id":null,"order_type":{"oneOf":["abandoned","order","cart","wishlist"],"required":false},"full_name":null,"is_marketing_updates_subscribed":null,"is_eu_user":null,"order_status":null,"order_currency":null,"source":null,"source_site_id":null,"is_text_alerts_enabled":null,"order_item_tax_total":null,"order_gift_card_total":null,"order_tax_total":null,"order_tip_total":null,"buyer_entered_tip":null,"auto_calculate_tip_percentage":null,"auto_calculate_smart_tip":null,"order_tip_percentage":null,"order_tax_total_subunits":null,"order_balance_due_total":null,"order_balance_due_total_in_subunits":null,"order_tax_rates":null,"include_taxes_in_price":null,"charge_taxes_on_delivery":null,"charge_taxes_on_dine_in":null,"charge_taxes_on_shipping":null,"tax_type":null,"order_shipping_total":null,"order_shipping_taxes_total":null,"order_shipping_subtotal":null,"order_shipping_subtotal_subunits":null,"order_shipping_method":null,"order_subtotal":null,"order_discount_total":null,"order_total":null,"token":null,"paypal_token":null,"paypal_payer_id":null,"refunded_amount":null,"order_paid_date":null,"return_inventory_date":null,"cart_hash":null,"gift_cards":null,"contains_download":null,"contains_service":null,"contains_donation":null,"contains_event":null,"contains_membership":null,"contains_simple_digital":null,"contains_physical":null,"contains_food":null,"contains_giftcard":null,"order_shipment_status":null,"contains_physical_or_similar":null,"order_notes":{"required":true},"notes_for_buyer":null,"in_seat_delivery_notes":null,"order_transaction_fee":null,"weight":null,"order_shipping_additive_total":null,"default_shipping_profile_total":null,"shipping_additive_rates":null,"unsupported_shipping_additive_rates":null,"has_only_item_level_shipping_items":null,"billing_summary":null,"free_fulfillment_conditions":null,"is_afterpay_order":null,"use_clearpay_brand":null,"selected_payment_method_uuid":null,"payment_method_verification_uuid":null,"loyalty_account_uuid":null,"discounts":null,"pickup_locations":null,"delivery_locations":null,"dine_in_locations":null,"use_square_taxes":null,"store_location_uuid":null,"ordering_site_fulfillment_location":null,"courier_delivery_id":null,"initial_courier_quote_id":null,"courier_quote_id":null,"courier_provider_id":null,"courier_provider_name":null,"courier_provider_support_phone_number":null,"is_courier_default_tip_applied":null,"no_contact_delivery_enabled":null,"order_delivery_fee_total":null,"order_delivery_seller_fee_total":null,"order_courier_delivery_fee_total":null,"order_service_charge_total":null,"order_delivery_restocking_fee_total":null,"ecom_delivery_service_fee_subtotal":null,"ecom_delivery_service_fee_total":null,"ecom_delivery_service_fee_taxes_total":null,"ecom_courier_delivery_service_fee_total":null,"order_delivery_fee_taxes_total":null,"custom_service_charges":null,"time_based_category_enabled":null,"customer_seat_uuid":null,"customer_seat_name":null,"section_time_created":null,"table_time_created":null,"open_order_uuid":null,"has_successful_authorize_billing":null,"has_child_orders":null,"active_child_cart_has_items":null,"parent_order_token":null,"square_marketing_opt_in_type":null,"should_monolith_send_order_email":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"order_display_status":"string","order_display_type":"string","order_available_actions_list":"array","order_fulfillment_options":"array","order_fulfillment":"string","is_prepared_enabled":"boolean","has_preordering_items":"boolean","has_items_using_fulfillment_preferences":"boolean","has_location_using_fulfillment_preferences":"boolean","refundable_amount":"decimal","is_customer_address_required":"boolean","is_courier_delivery_enabled":"boolean","is_otg_in_seat_delivery_enabled":"boolean","site_order_id":"string","is_group_order":"boolean","site_customer_id":"string","order_type":"string","full_name":"string","is_marketing_updates_subscribed":null,"is_eu_user":null,"order_status":"string","order_currency":"string","source":"string","source_site_id":"string","is_text_alerts_enabled":"boolean","order_item_tax_total":"decimal","order_gift_card_total":"decimal","order_tax_total":"decimal","order_tip_total":"decimal","buyer_entered_tip":"boolean","auto_calculate_tip_percentage":"int","auto_calculate_smart_tip":"decimal","order_tip_percentage":"int","order_tax_total_subunits":"int","order_balance_due_total":"decimal","order_balance_due_total_in_subunits":"int","order_tax_rates":"json","include_taxes_in_price":"boolean","charge_taxes_on_delivery":"boolean","charge_taxes_on_dine_in":"boolean","charge_taxes_on_shipping":"boolean","tax_type":"string","order_shipping_total":"decimal","order_shipping_taxes_total":"decimal","order_shipping_subtotal":"decimal","order_shipping_subtotal_subunits":"int","order_shipping_method":"string","order_subtotal":"decimal","order_discount_total":"decimal","order_total":"decimal","token":"string","paypal_token":"string","paypal_payer_id":"string","refunded_amount":"decimal","order_paid_date":"int","return_inventory_date":"int","cart_hash":"string","gift_cards":"json","contains_download":"boolean","contains_service":"boolean","contains_donation":"boolean","contains_event":"boolean","contains_membership":"boolean","contains_simple_digital":"boolean","contains_physical":"boolean","contains_food":"boolean","contains_giftcard":"boolean","order_shipment_status":"string","contains_physical_or_similar":"boolean","order_notes":"string","notes_for_buyer":"string","in_seat_delivery_notes":"string","order_transaction_fee":"json","weight":null,"order_shipping_additive_total":"decimal","default_shipping_profile_total":"decimal","shipping_additive_rates":"array","unsupported_shipping_additive_rates":"array","has_only_item_level_shipping_items":"boolean","billing_summary":"string","free_fulfillment_conditions":"array","is_afterpay_order":"boolean","use_clearpay_brand":"boolean","selected_payment_method_uuid":"string","payment_method_verification_uuid":"string","loyalty_account_uuid":"string","discounts":"json","pickup_locations":"array","delivery_locations":"array","dine_in_locations":"array","use_square_taxes":"boolean","store_location_uuid":null,"ordering_site_fulfillment_location":null,"courier_delivery_id":"string","initial_courier_quote_id":"string","courier_quote_id":"string","courier_provider_id":"string","courier_provider_name":"string","courier_provider_support_phone_number":"string","is_courier_default_tip_applied":"string","no_contact_delivery_enabled":"boolean","order_delivery_fee_total":"decimal","order_delivery_seller_fee_total":"decimal","order_courier_delivery_fee_total":"decimal","order_service_charge_total":"decimal","order_delivery_restocking_fee_total":"decimal","ecom_delivery_service_fee_subtotal":"decimal","ecom_delivery_service_fee_total":"decimal","ecom_delivery_service_fee_taxes_total":"decimal","ecom_courier_delivery_service_fee_total":"decimal","order_delivery_fee_taxes_total":"decimal","custom_service_charges":"json","time_based_category_enabled":"boolean","customer_seat_uuid":null,"customer_seat_name":null,"section_time_created":null,"table_time_created":null,"open_order_uuid":null,"has_successful_authorize_billing":null,"has_child_orders":null,"active_child_cart_has_items":null,"parent_order_token":null,"square_marketing_opt_in_type":"string","should_monolith_send_order_email":"boolean","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_order_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id"],"token_2":["token"],"uuid_index":["id"],"order_status":["owner_id","site_id","deleted","order_type","order_status"],"customer":["owner_id","site_id","deleted","site_customer_id","order_type","order_status"],"com_order_date":["owner_id","site_id","deleted","order_type","order_paid_date"],"abandoned_cart":["owner_id","site_id","deleted","order_type","created_date","updated_date","abandoned_cart_processed","abandoned_cart_sent_email_id","site_order_id","site_customer_id"],"orders_by_date":["deleted","order_type","updated_date"],"orders_by_source_site":["owner_id","site_id","deleted","order_type","source","source_site_id"],"open_order":["owner_id","site_id","deleted","open_order_id"],"abandoned_cart_customer_event":["owner_id","site_id","deleted","order_type","created_date","updated_date","abandoned_cart_customer_event_id","site_order_id","site_customer_id"]},"relations":[{"type":"HasMany","key":"items","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderItem","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"shipments","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderShipment","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"billings","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderBilling","reverseRelation":{"key":"order","includeInJSON":false}},{"type":"HasMany","key":"coupons","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderCoupon","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"rewards","foreignKey":["owner_id","site_id","site_order_id"],"parse":true,"relatedModel":"OrderReward","reverseRelation":{"key":null,"includeInJSON":false}}]},"OrderShipment":{"_class":"Commerce.Model.OrderShipment","defaults":{"latest_fulfillment_eta":null,"site_order_id":null,"type":"quote","fulfillment_type":"shipping","site_customer_id":"","site_customer_address_id":0,"shipping_provider":null,"site_shipping_provider_id":null,"shipping_provider_payment":null,"site_shipping_box_id":null,"max_items":null,"max_box_weight":null,"sync_with_square_failed":null,"weight":null,"weight_unit":"lb","height":null,"width":null,"depth":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"site_shipping_price_id":null,"site_shipping_method_id":null,"shipment_tax_total":0,"shipment_tax_rates":null,"item_level_shipping_rate_quote":null,"selected_shipping_rate_quote":null,"site_store_address_id":null,"pickup_store_address_id":null,"pickup_instructions":null,"no_eta_fulfillment_instructions":null,"no_eta_short_fulfillment_instructions":null,"pickup_location_display_name":null,"pickup_schedule_type":null,"pickup_prep_time_duration":null,"fulfillment_window_duration":null,"created_with_fulfillment_eta":true,"adjusted_for_capacity_limits":false,"curbside_pickup_selected":false,"curbside_pickup_details":null,"price":0,"shipment_total":null,"region_code_cca2":null,"region_code_full_name":null,"charge_taxes_on_shipping":false,"title":null,"site_shipping_method_type":null,"site_shipping_method_subtype":null,"site_shipping_method_default_rate":null,"site_shipping_method_rates":null,"shipment_date":null,"tracking_number":null,"tracking_url_provider":null,"print_order_tickets_immediately_enabled":null,"status":null,"eta_timezone":null,"pickup_time":null,"pickup_time_unix":null,"pickup_date":null,"pickup_time_24_hour":null,"delivery_time":null,"min_delivery_time_unix":null,"preferred_delivery_time_unix":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"latest_fulfillment_eta":null,"site_order_id":null,"site_order_shipment_id":null,"type":{"oneOf":["shipment","quote","pickup","manual"],"required":false},"fulfillment_type":null,"site_customer_id":{"required":true},"site_customer_address_id":{"required":true},"shipping_provider":null,"site_shipping_provider_id":null,"shipping_provider_payment":null,"site_shipping_box_id":null,"max_items":null,"max_box_weight":null,"sync_with_square_failed":null,"weight":null,"weight_unit":null,"height":null,"width":null,"depth":null,"full_name":null,"email":null,"phone":null,"business_name":null,"street":null,"street2":null,"city":null,"region":null,"country":null,"postal_code":null,"site_shipping_price_id":null,"site_shipping_method_id":null,"shipment_tax_total":null,"shipment_tax_rates":null,"item_level_shipping_rate_quote":null,"selected_shipping_rate_quote":null,"site_store_address_id":null,"pickup_store_address_id":null,"pickup_instructions":null,"no_eta_fulfillment_instructions":null,"no_eta_short_fulfillment_instructions":null,"pickup_location_display_name":null,"pickup_schedule_type":null,"pickup_prep_time_duration":null,"fulfillment_window_duration":null,"created_with_fulfillment_eta":null,"adjusted_for_capacity_limits":null,"curbside_pickup_selected":null,"curbside_pickup_details":null,"price":null,"shipment_total":null,"region_code_cca2":null,"region_code_full_name":null,"charge_taxes_on_shipping":null,"title":null,"site_shipping_method_type":null,"site_shipping_method_subtype":null,"site_shipping_method_default_rate":null,"site_shipping_method_rates":null,"shipment_date":null,"tracking_number":null,"tracking_url_provider":null,"print_order_tickets_immediately_enabled":null,"status":null,"eta_timezone":null,"pickup_time":null,"pickup_time_unix":null,"pickup_date":null,"pickup_time_24_hour":null,"delivery_time":null,"min_delivery_time_unix":null,"preferred_delivery_time_unix":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"latest_fulfillment_eta":"string","site_order_id":"string","site_order_shipment_id":"int","type":"string","fulfillment_type":"string","site_customer_id":"string","site_customer_address_id":"int","shipping_provider":"string","site_shipping_provider_id":"int","shipping_provider_payment":"json","site_shipping_box_id":null,"max_items":null,"max_box_weight":null,"sync_with_square_failed":"boolean","weight":"decimal","weight_unit":"string","height":"decimal","width":"decimal","depth":"decimal","full_name":"string","email":"string","phone":"string","business_name":"string","street":"string","street2":"string","city":"string","region":"string","country":"string","postal_code":"string","site_shipping_price_id":"string","site_shipping_method_id":null,"shipment_tax_total":"decimal","shipment_tax_rates":"json","item_level_shipping_rate_quote":"json","selected_shipping_rate_quote":"string","site_store_address_id":"string","pickup_store_address_id":"int","pickup_instructions":"string","no_eta_fulfillment_instructions":"string","no_eta_short_fulfillment_instructions":"string","pickup_location_display_name":"string","pickup_schedule_type":"string","pickup_prep_time_duration":"string","fulfillment_window_duration":"string","created_with_fulfillment_eta":"boolean","adjusted_for_capacity_limits":"boolean","curbside_pickup_selected":"boolean","curbside_pickup_details":"string","price":"decimal","shipment_total":"decimal","region_code_cca2":"string","region_code_full_name":"string","charge_taxes_on_shipping":"boolean","title":"string","site_shipping_method_type":null,"site_shipping_method_subtype":null,"site_shipping_method_default_rate":null,"site_shipping_method_rates":null,"shipment_date":null,"tracking_number":null,"tracking_url_provider":null,"print_order_tickets_immediately_enabled":"boolean","status":"string","eta_timezone":"string","pickup_time":"string","pickup_time_unix":"int","pickup_date":"string","pickup_time_24_hour":"string","delivery_time":"string","min_delivery_time_unix":"string","preferred_delivery_time_unix":"string","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_order_shipment_id","keydefs":{"PRIMARY":["owner_id","site_id","site_order_id","site_order_shipment_id"],"uuid_index":["id"],"site_store_address_id":["site_store_address_id"],"shipping_label_purchase_batch_index":["owner_id","site_id","site_shipping_label_purchase_batch_id"]},"relations":[{"type":"HasMany","key":"original_box","foreignKey":["owner_id","site_id","site_shipping_box_id"],"parse":true,"relatedModel":"ShippingBox","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"transactions","foreignKey":["owner_id","site_id","site_order_id","site_order_shipment_id"],"parse":true,"relatedModel":"OrderShipmentTransaction","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"original_shipment_rate","foreignKey":["owner_id","site_id","site_shipping_price_id"],"parse":true,"relatedModel":"ShippingRate","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"original_shipping_method","foreignKey":["owner_id","site_id","site_shipping_method_id"],"parse":true,"relatedModel":"ShippingMethod","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"items","foreignKey":["owner_id","site_id","site_order_id","site_order_shipment_id"],"parse":true,"relatedModel":"OrderShipmentToItem","reverseRelation":{"key":null,"includeInJSON":false}}]},"Product":{"_class":"Commerce.Model.Product","defaults":{"site_link":null,"mli_price_inventory_generated":null,"site_shipping_box_id":null,"name":null,"short_description":null,"pickup_fulfillment_preferences_id":null,"delivery_fulfillment_preferences_id":null,"shipping_fulfillment_preferences_id":null,"dine_in_fulfillment_preferences_id":null,"variation_type":"1","seo_page_title":null,"seo_page_description":null,"published":true,"price_low_all_locations":null,"price_high_all_locations":null,"import_source":null,"visibility":"visible","track_inventory":false,"taxable":true,"option_sets":null,"image_order":null,"product_type_details":null,"product_type":"physical","permalink":null,"price_low":null,"price_high":null,"sale_price_low":null,"sale_price_high":null,"inventory":null,"inventory_low":null,"all_inventory_total":null,"average_rating":null,"average_rating_all":null,"all_skus_sale":null,"highest_nonsale":null,"lowest_nonsale":null,"visibility_selector_disabled":null,"min_prep_time":null,"is_alcoholic":false,"is_archived":false,"only_subscribable":false,"excluded_from_site_catalog":false,"per_order_max":null,"allow_order_item_quantities":false,"category_ids":null,"coupon_ids":null,"last_catalog_sync":null,"seo_product_image_id":null,"og_title":null,"og_description":null,"bridge_sync_status":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"site_link":null,"site_product_id":null,"mli_price_inventory_generated":null,"site_shipping_box_id":null,"name":null,"short_description":null,"pickup_fulfillment_preferences_id":null,"delivery_fulfillment_preferences_id":null,"shipping_fulfillment_preferences_id":null,"dine_in_fulfillment_preferences_id":null,"variation_type":{"oneOf":["1","2","3"],"required":false},"seo_page_title":null,"seo_page_description":null,"published":null,"price_low_all_locations":null,"price_high_all_locations":null,"import_source":null,"visibility":{"oneOf":["visible","hidden","unavailable"],"required":false},"track_inventory":null,"taxable":null,"option_sets":null,"image_order":null,"product_type_details":null,"product_type":null,"permalink":{"pattern":"^[\\w\\\/.-]*$","required":false},"price_low":null,"price_high":null,"sale_price_low":null,"sale_price_high":null,"inventory":null,"inventory_low":null,"all_inventory_total":null,"average_rating":null,"average_rating_all":null,"all_skus_sale":null,"highest_nonsale":null,"lowest_nonsale":null,"visibility_selector_disabled":null,"min_prep_time":null,"is_alcoholic":null,"is_archived":null,"only_subscribable":null,"excluded_from_site_catalog":null,"per_order_max":null,"allow_order_item_quantities":null,"category_ids":null,"coupon_ids":null,"last_catalog_sync":null,"seo_product_image_id":null,"og_title":null,"og_description":null,"bridge_sync_status":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"site_link":"string","site_product_id":"string","mli_price_inventory_generated":"decimal","site_shipping_box_id":"integer","name":"string","short_description":"string","pickup_fulfillment_preferences_id":"string","delivery_fulfillment_preferences_id":"string","shipping_fulfillment_preferences_id":"string","dine_in_fulfillment_preferences_id":"string","variation_type":"string","seo_page_title":"string","seo_page_description":"string","published":"boolean","price_low_all_locations":"decimal","price_high_all_locations":"decimal","import_source":"string","visibility":"string","track_inventory":"boolean","taxable":"boolean","option_sets":"array","image_order":"json","product_type_details":"json","product_type":"string","permalink":"string","price_low":"decimal","price_high":"decimal","sale_price_low":"decimal","sale_price_high":"decimal","inventory":"string","inventory_low":"integer","all_inventory_total":"integer","average_rating":"decimal","average_rating_all":"decimal","all_skus_sale":"boolean","highest_nonsale":"decimal","lowest_nonsale":"decimal","visibility_selector_disabled":"boolean","min_prep_time":"integer","is_alcoholic":"boolean","is_archived":"boolean","only_subscribable":"boolean","excluded_from_site_catalog":"boolean","per_order_max":"null|integer","allow_order_item_quantities":"boolean","category_ids":"json","coupon_ids":"json","last_catalog_sync":"int","seo_product_image_id":"int","og_title":"string","og_description":"string","bridge_sync_status":"string","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_product_id","keydefs":{"PRIMARY":["owner_id","site_id","site_product_id"],"uuid_index":["id"],"manufacturer":["owner_id","site_product_id","site_manufacturer_id"],"created_date":["owner_id","site_id","deleted","created_date"],"updated_date":["owner_id","site_id","deleted","updated_date"],"com_product_average_rating_owner_id_site_id_index":["average_rating","owner_id","site_id"],"com_product_average_rating_all_owner_id_site_id_index":["average_rating_all","owner_id","site_id"],"product_popularity_score":["owner_id","site_id","popularity_score"],"pickup_fulfillment_preferences_id":["pickup_fulfillment_preferences_id"],"delivery_fulfillment_preferences_id":["delivery_fulfillment_preferences_id"],"updated_at":["updated_date"],"import_batch_id":["owner_id","site_id","import_batch_id"],"shipping_fulfillment_preferences_id":["shipping_fulfillment_preferences_id"],"dine_in_fulfillment_preferences_id":["dine_in_fulfillment_preferences_id"],"is_archived":["owner_id","site_id","deleted","is_archived"]},"relations":[{"type":"HasMany","key":"shipping_box","foreignKey":["owner_id","site_id","site_shipping_box_id"],"parse":true,"relatedModel":"ShippingBox","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"modifiers","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductModifier","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"skus","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductSku","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"images","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductImage","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"media_files","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductMediaFile","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"manufacturer","foreignKey":["owner_id","site_id"],"parse":true,"relatedModel":"Manufacturer","reverseRelation":{"key":null,"includeInJSON":false}},{"type":"HasMany","key":"options2","foreignKey":["owner_id","site_id","site_product_id"],"parse":true,"relatedModel":"ProductOption","reverseRelation":{"key":null,"includeInJSON":false}}]},"ShippingRate":{"_class":"Commerce.Model.ShippingRate","defaults":{"title":null,"country":null,"type":null,"minimum":0,"maximum":0,"price":0,"coupon_ids":null,"uuid":null,"owner_id":"","site_id":"","created_date":0,"updated_date":0},"validation":{"site_shipping_price_id":null,"title":null,"country":null,"type":{"oneOf":["Price","Weight"],"required":false},"minimum":null,"maximum":null,"price":null,"coupon_ids":null,"uuid":null,"owner_id":{"required":true},"site_id":{"required":true},"created_date":null,"updated_date":null},"types":{"site_shipping_price_id":"int","title":"String","country":"String","type":"String","minimum":"decimal","maximum":"decimal","price":"decimal","coupon_ids":"json","uuid":null,"owner_id":"string","site_id":"string","created_date":"int","updated_date":"int"},"idAttribute":"site_shipping_price_id","keydefs":{"PRIMARY":["owner_id","site_id","site_shipping_price_id"],"uuid_index":["id"]},"relations":[{"type":"HasMany","key":"region_rates","foreignKey":["owner_id","site_id","site_shipping_price_id"],"parse":true,"relatedModel":"ShippingRegionRate","reverseRelation":{"key":null,"includeInJSON":false}}]},"StoredPayment":{"_class":"Commerce.Model.StoredPayment","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"ABTest":{"_class":"Commerce.Collection.ABTest"},"ABTestSegmentation":{"_class":"Commerce.Collection.ABTestSegmentation"},"AuthorizedPayments":{"_class":"Commerce.Collection.AuthorizedPayments"},"Category":{"_class":"Commerce.Collection.Category"},"Checkout":{"_class":"Commerce.Collection.Checkout"},"CustomerAddress":{"_class":"Commerce.Collection.CustomerAddress"},"Customer":{"_class":"Commerce.Collection.Customer"},"Log":{"_class":"Commerce.Collection.Log"},"OrderBilling":{"_class":"Commerce.Collection.OrderBilling"},"OrderFulfillment":{"_class":"Commerce.Collection.OrderFulfillment"},"OrderItem":{"_class":"Commerce.Collection.OrderItem"},"Order":{"_class":"Commerce.Collection.Order"},"OrderShipment":{"_class":"Commerce.Collection.OrderShipment"},"Product":{"_class":"Commerce.Collection.Product"},"ShippingRate":{"_class":"Commerce.Collection.ShippingRate"},"StoredPayment":{"_class":"Commerce.Collection.StoredPayment"}},"bootstrap":[]});
+})(); }</script>
+<script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/commerce-core.js"></script>
+<script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/main-commerce-browse.js"></script><script type="text/javascript" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/slideshow-jq.js"></script>
+<script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/stl.js"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"714116652485762189","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"189014954289029605","title":"About","url":"about.html","target":"","nav_menu":false,"nonclickable":true},{"id":"511912070472738314","title":"Donate","url":"giving.html","target":"","nav_menu":false,"nonclickable":false},{"id":"970661295166777187","title":"Contact","url":"contact1.html","target":"","nav_menu":false,"nonclickable":true},{"id":"654296754421176270","title":"Tutoring","url":"tutoring1.html","target":"","nav_menu":false,"nonclickable":true}],
+			"714116652485762189",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{}
+		)
+	}
+//-->
+</script>
+		
+		
+	<style type="text/css">.customer-accounts-app__body[data-v-7ef42737]{width:100%}.customer-accounts-app__modal-wrapper[data-v-7ef42737]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-7ef42737]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-7ef42737]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-7ef42737]{background:#000}@media (max-width:750px){.customer-accounts-app__modal[data-v-7ef42737]{width:100%;height:100%}}</style><style type="text/css">.loading[data-v-db79aa1c]{display:flex;width:100%;align-items:center;justify-content:center;margin:15px 0}</style><style type="text/css">.page-header__wrapper[data-v-ed59fae0]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.page-header__text[data-v-ed59fae0]{margin:0 32px 0 0}.page-header__divider[data-v-ed59fae0]{height:1px;width:100%;margin:24px 0;background:rgba(0,0,0,.1)}</style><style type="text/css">.form-field[data-v-2b04d498]{margin:16px 0}.form-field__label[data-v-2b04d498]{display:flex;flex-direction:column}.form-field__title[data-v-2b04d498]{margin-bottom:8px;font-size:90%;color:#3b526d}.wsite-theme-dark .form-field__title[data-v-2b04d498]{color:#dfe6ee}.form-field__error[data-v-2b04d498]{margin-top:14px}</style><style type="text/css">.field-error[data-v-338d8d38]{color:#ff2825}</style><style type="text/css">.form-instructions[data-v-8ddff154]{margin-bottom:24px}</style><style type="text/css">.site-input[data-v-4c05aa90]{border:1px solid #dbdbdb;padding:8px;border-radius:2px}.site-input__is-invalid[data-v-4c05aa90]{border:1px solid #ff2825}</style><style type="text/css">.actions-row[data-v-136b380e]{margin-top:24px;display:flex;flex-direction:row;justify-content:space-between;align-items:center}.actions-row div[data-v-136b380e]:first-child{margin-right:16px}</style><style type="text/css">.back-button[data-v-fe280eac]{display:flex;flex-direction:row;align-items:center}.back-button__icon[data-v-fe280eac]{margin:0 8px 0 0}</style><style type="text/css">p[data-v-6cc325c4]{font-weight:700}.order-confirmation__checkbox[data-v-6cc325c4]{margin-right:6px}.order-confirmation__success-message[data-v-6cc325c4]{display:flex;flex-direction:row;align-items:center}</style><style type="text/css">.register__privacy-policy[data-v-0761b96f]{margin:24px 0;font-size:small}</style><style type="text/css">.customer-accounts-app__body[data-v-55d84bd4]{width:100%}.customer-accounts-app__modal-wrapper[data-v-55d84bd4]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-55d84bd4]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-55d84bd4]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-55d84bd4]{background:#000}@media (max-width:600px){.customer-accounts-app__modal[data-v-55d84bd4]{width:100%;height:100%}}</style><style type="text/css">.account-details__wrapper[data-v-398277ef]{width:100%}.account-details__group[data-v-398277ef]{margin-bottom:24px;text-align:left}.account-details__table-container[data-v-398277ef]{overflow:auto}.account-details__title[data-v-398277ef]{text-align:left;margin-bottom:6px}.account-details__log-out[data-v-398277ef]{cursor:pointer}.account-details__error[data-v-398277ef]{margin:36px 0;text-align:left}.error[data-v-398277ef]{color:#ff2825}</style><style type="text/css">.section-header__wrapper[data-v-30a09418]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.section-header__text[data-v-30a09418]{margin:24px 0}</style><style type="text/css">.empty-content-area__container[data-v-d17db2d0]{display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:32px;width:100%;min-height:80px;background:#f2f2f2}.wsite-theme-dark .empty-content-area__container[data-v-d17db2d0]{background:#000}</style><style type="text/css">.order-details__table[data-v-4601454e]{width:100%;margin-top:12px;margin-bottom:36px;empty-cells:show;border-collapse:collapse;border-spacing:0;border:none}.order-details__table th[data-v-4601454e]{margin:0;padding:16px;text-align:left;background:#f2f2f2}.wsite-theme-dark .order-details__table th[data-v-4601454e]{background:#000}.order-details__table td[data-v-4601454e]{margin:0;padding:16px;text-align:left}</style><style type="text/css">.shipping-address__wrapper[data-v-0b54f770]{text-align:left;width:100%}</style><style type="text/css">.reset-password__link[data-v-4f820709]{cursor:pointer}</style></head>
+	<body class="header-page  wsite-page-index  full-width-body-off header-overlay-on alt-nav-off  wsite-theme-light fade-in"><div class="wrapper">
+    <div class="birdseye-header">
+      <div class="nav-wrap">
+        <div class="container">
+          <div class="logo"><span class="wsite-logo">
+
+	<a href="https://www.bridgingtech.org/">
+		<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/bridge-logo.png" alt="BRIDGING TECH">
+	</a>
+
+</span></div>
+          <div class="nav desktop-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap     wsite-nav-1" style="position: relative;">
+			<a href="https://www.bridgingtech.org/" class="wsite-menu-item" style="position: relative;">
+				Home
+			</a>
+			
+		</li>
+		<li id="pg189014954289029605" class="wsite-menu-item-wrap     wsite-nav-2" style="position: relative;">
+			<a class="wsite-menu-item" style="position: relative;">
+				About
+			</a>
+			
+
+		</li>
+		<li id="pg511912070472738314" class="wsite-menu-item-wrap     wsite-nav-3" style="position: relative;">
+			<a href="https://www.bridgingtech.org/giving.html" class="wsite-menu-item" style="position: relative;">
+				Donate
+			</a>
+			
+
+		</li>
+		<li id="pg970661295166777187" class="wsite-menu-item-wrap     wsite-nav-4" style="position: relative;">
+			<a class="wsite-menu-item" style="position: relative;">
+				Contact
+			</a>
+			
+
+		</li>
+		<li id="pg654296754421176270" class="wsite-menu-item-wrap     wsite-nav-5" style="position: relative;">
+			<a class="wsite-menu-item" style="position: relative;">
+				Tutoring
+			</a>
+			
+
+		</li>
+</ul>
+</div>
+          <a class="hamburger" aria-label="Menu" href="https://www.bridgingtech.org/#"><span></span></a>
+        </div>
+      </div>
+    <div id="wsite-menus"><div class="wsite-menu-wrap" style="display: none; position: absolute;">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-721279417132468821" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/testimonials.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Testimonials
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-464852606745224972" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/news.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			News
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-977341748239390255" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/about-588398.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Our Story
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-923720146873875949" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/our-people.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Our People
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-764961506421402190" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/our-donors.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Our Donors
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-845226641953984434" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/our-partners.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Our Partners
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-318970128933716144" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/about-588398-431560.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Collaboration for Ed Tech
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-300358156926469362" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/community-and-online-events.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Community and Online Events
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div><div class="wsite-menu-wrap" style="display: none; position: absolute;">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-475469329746787353" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/dafgiving.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			DAF  Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-430796861610240898" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/stockgiving.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Stock Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-540375453702194050" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/crypto-currency-giving.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Cyber Currency  Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-149681030539389925" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/fundraiser-202173.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			2024 Brooklyn Half Marathon
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-266393747240675495" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/donate-a-device1.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Donate a Device
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div><div class="wsite-menu-wrap" style="display: none; position: absolute;">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-928741803877788646" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/student-resources.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Student Resources
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-681242054623211789" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/contact.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Contact
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-555840124717166750" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/product-support.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Product Support
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div><div class="wsite-menu-wrap" style="display: none; position: absolute;">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-117044876236741000" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/tutoring.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Our Tutoring Program
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-612843035589597244" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/request-a-tutor.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Request a Tutor
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-491753218706977610" class="wsite-menu-subitem-wrap " style="position: relative;">
+	<a href="https://www.bridgingtech.org/become-a-tutor.html" class="wsite-menu-subitem" style="position: relative;">
+		<span class="wsite-menu-title">
+			Become a Tutor
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div></div><div id="wsite-mini-cart" class="wsite-cart-contents" style="display: none;"><ul class="wsite-product-list"><li><div class="wsite-empty-cart">Empty Cart</div>
+</li></ul><div class="wsite-cart-bottom">
+	<div class="wsite-vertical-align wsite-subtotal-wrapper">
+		<span>Subtotal:</span>
+		<span class="wsite-price">$0.00</span>
+	</div>
+	<div class="wsite-vertical-align wsite-button-wrapper">
+		<a id="wsite-com-minicart-checkout-button" class="wsite-button wsite-button-highlight" href="https://www.bridgingtech.org/store/checkout?cart=">
+			<span class="wsite-button-inner">Checkout</span><span class="wsite-button-chevron"></span>
+		</a>
+	</div>
+</div>
+</div></div>
+
+    <div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-header-section wsite-section-bg-gradient" style="height: 1248px;vertical-align: bottom;background: #c1c1c1;background: linear-gradient(269deg, #c1c1c1 0%, #e6d7bd 100%);">
+		<div class="wsite-section-content">
+			
+          <div class="container" style="padding-top: 90px;">
+            <div class="banner">
+				<div class="wsite-section-elements">
+					<span class="imgPusher" style="float:left;height:0px"></span><span style="display: table;width:auto;position:relative;float:left;max-width:100%;;clear:left;margin-top:0px;*margin-top:0px"><a><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/big-boy-logo.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; border-width:0; max-width:100%" alt="Picture" class="galleryImageBorder wsite-image"></a><span style="display: table-caption; caption-side: bottom; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span>
+<div class="paragraph" style="display:block;"></div>
+<hr style="width:100%;clear:both;visibility:hidden;">
+
+<div class="paragraph" style="text-align:left;"><font color="#000000" size="6">​Bridging the digital divide and empowering K-12 students affected by homelessness and housing insecurity in the U.S. by providing technology and educational opportunities.</font></div>
+
+<div class="paragraph" style="text-align:left;"><span style="font-weight:700"><strong><font color="#2a2a2a" size="4">JOIN US - Donate or volunteer!</font></strong><br><br><font size="3"><font color="#000000">​501(c)(3) EIN: 85-1031712</font></font></span></div>
+
+<div style="text-align:center;"><div style="height: 20px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://www.bridgingtech.org/donate-a-device1.html" target="_blank">
+<span class="wsite-button-inner">Donate a Device</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+<div class="wsite-spacer" style="height:26px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:51.66981726528%; padding:0 15px;">
+					
+						
+
+<div style="text-align:inherit;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="http://www.bridgingtech.org/giving" target="_blank">
+<span class="wsite-button-inner">GIVE TECH FUNDING</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:48.33018273472%; padding:0 15px;">
+					
+						
+
+<div style="text-align:inherit;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://www.bridgingtech.org/get-involved.html" target="_blank">
+<span class="wsite-button-inner">GET INVOLVED</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/best-child-with-laptop-image_orig.jpg" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;">
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<div class="paragraph"><font color="#24678d"><font size="6">&nbsp;More than 1.2 Million students experienced homelessness in 2022, or 2.4-in-100m students. Rates are even higher</font></font><font color="#24678d"><font size="6">&nbsp;in larger cities. </font><br><font size="5">​Source: 2023 National Center for Education Statistics -(NCES)</font></font></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:inherit">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/gold-seal-2023.png" alt="Picture" style="width:156;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://www.guidestar.org/profile/85-1031712" target="_blank">
+<span class="wsite-button-inner">Guidestar Profile and Financial Statements</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+<div class="wsite-spacer" style="height:32px;"></div>
+
+<div class="wsite-spacer" style="height:17px;"></div>
+				</div>
+			</div>
+          </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-12">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:50px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font size="7">We are addressing the digital divide -<br><br>Donated devices to housing-insecure students:</font></h2>
+
+<div id="802830894535103396"><div><style type="text/css">
+	#element-51471c0e-6b89-470b-9721-9c9fb3340ad9 .counter-number > div {
+  font-size: 310px;
+  color: #38b6ff !important;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  text-align: center;
+  padding: 0;
+  min-height: 320px;
+  line-height: 320px;
+}
+#element-51471c0e-6b89-470b-9721-9c9fb3340ad9 .content-number-bold {
+  font-weight: bold;
+}
+#element-51471c0e-6b89-470b-9721-9c9fb3340ad9 .counter-label .paragraph {
+  text-align: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+</style><div id="element-51471c0e-6b89-470b-9721-9c9fb3340ad9" data-platform-element-id="859636669115165528-1.1.6" class="platform-element-contents">
+	<div class="counter-element">
+    <div class="counter-label counter-top-label">
+    </div>
+    <div class="counter-number">
+        <div></div>
+    </div>
+    <div class="counter-label counter-bottom-label">
+            <div class="paragraph"><strong><font color="#38b6ff" size="7">GIVE $100 TO HELP TRANSFORM<br><br>​K-12 STUDENTS' LIVES</font></strong></div>
+    </div>
+</div>
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement802830894535103396() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "859636669115165528-1.1.6";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = /**
+ * This is required for element rendering to be possible
+ * @type {PlatformElement}
+ */
+(function() {
+
+    var CounterElement = PlatformElement.extend({
+        initialize: function() {
+            // Cache counter element
+            this.counter = this.$('.counter-number div');
+            this.startCounter();
+        },
+
+        // Wrapper function to determine when to start animating
+        startCounter: function() {
+            // Animate immediately if counter is already in view.
+            // Otherwise, set interval to check if the counter is in view
+            var view = this;
+            view.checkView = setInterval(function() {
+                if (view.isScrolledIntoView(view.counter)) {
+                    clearInterval(view.checkView);
+                    view.animateNum();
+                }
+            }, 200);
+        },
+
+        // Perform animation
+        animateNum: function() {
+            var intervalCounter = 0;
+            var end = this.settings.get('end');
+            var duration = this.settings.get('duration');
+            var view = this;
+
+            view.animateNumInterval = setInterval(function() {
+                var percentComplete = intervalCounter / (duration * 100);
+                view.counter.text(Math.round(end * percentComplete));
+                intervalCounter++;
+                if ((intervalCounter / 100) == duration) {
+                    // to beat any rounding issues
+                    view.counter.text(end);
+                    clearInterval(view.animateNumInterval);
+                }
+            }, 10);
+        },
+
+        // Helper function to determine if an element is in view
+        isScrolledIntoView: function($elem) {
+            // For nested counters that are hidden
+            if (!$elem.is(':visible')) {
+                return false;
+            }
+
+            var $window = $(window);
+
+            var docViewTop = $window.scrollTop();
+            var docViewBottom = docViewTop + $window.height();
+
+            var elemTop = $elem.offset().top;
+            var elemBottom = elemTop + $elem.height();
+
+            return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+        }
+    });
+
+    return CounterElement;
+})();;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"end_each":[{"end_index":0},{"end_index":1},{"end_index":2},{"end_index":3},{"end_index":4},{"end_index":5},{"end_index":6},{"end_index":7},{"end_index":8},{"end_index":9},{"end_index":10},{"end_index":11},{"end_index":12},{"end_index":13},{"end_index":14},{"end_index":15},{"end_index":16},{"end_index":17},{"end_index":18},{"end_index":19},{"end_index":20},{"end_index":21},{"end_index":22},{"end_index":23},{"end_index":24},{"end_index":25},{"end_index":26},{"end_index":27},{"end_index":28},{"end_index":29},{"end_index":30},{"end_index":31},{"end_index":32},{"end_index":33},{"end_index":34},{"end_index":35},{"end_index":36},{"end_index":37},{"end_index":38},{"end_index":39},{"end_index":40},{"end_index":41},{"end_index":42},{"end_index":43},{"end_index":44},{"end_index":45},{"end_index":46},{"end_index":47},{"end_index":48},{"end_index":49},{"end_index":50},{"end_index":51},{"end_index":52},{"end_index":53},{"end_index":54},{"end_index":55},{"end_index":56},{"end_index":57},{"end_index":58},{"end_index":59},{"end_index":60},{"end_index":61},{"end_index":62},{"end_index":63},{"end_index":64},{"end_index":65},{"end_index":66},{"end_index":67},{"end_index":68},{"end_index":69},{"end_index":70},{"end_index":71},{"end_index":72},{"end_index":73},{"end_index":74},{"end_index":75},{"end_index":76},{"end_index":77},{"end_index":78},{"end_index":79},{"end_index":80},{"end_index":81},{"end_index":82},{"end_index":83},{"end_index":84},{"end_index":85},{"end_index":86},{"end_index":87},{"end_index":88},{"end_index":89},{"end_index":90},{"end_index":91},{"end_index":92},{"end_index":93},{"end_index":94},{"end_index":95},{"end_index":96},{"end_index":97},{"end_index":98},{"end_index":99},{"end_index":100},{"end_index":101},{"end_index":102},{"end_index":103},{"end_index":104},{"end_index":105},{"end_index":106},{"end_index":107},{"end_index":108},{"end_index":109},{"end_index":110},{"end_index":111},{"end_index":112},{"end_index":113},{"end_index":114},{"end_index":115},{"end_index":116},{"end_index":117},{"end_index":118},{"end_index":119},{"end_index":120},{"end_index":121},{"end_index":122},{"end_index":123},{"end_index":124},{"end_index":125},{"end_index":126},{"end_index":127},{"end_index":128},{"end_index":129},{"end_index":130},{"end_index":131},{"end_index":132},{"end_index":133},{"end_index":134},{"end_index":135},{"end_index":136},{"end_index":137},{"end_index":138},{"end_index":139},{"end_index":140},{"end_index":141},{"end_index":142},{"end_index":143},{"end_index":144},{"end_index":145},{"end_index":146},{"end_index":147},{"end_index":148},{"end_index":149},{"end_index":150},{"end_index":151},{"end_index":152},{"end_index":153},{"end_index":154},{"end_index":155},{"end_index":156},{"end_index":157},{"end_index":158},{"end_index":159},{"end_index":160},{"end_index":161},{"end_index":162},{"end_index":163},{"end_index":164},{"end_index":165},{"end_index":166},{"end_index":167},{"end_index":168},{"end_index":169},{"end_index":170},{"end_index":171},{"end_index":172},{"end_index":173},{"end_index":174},{"end_index":175},{"end_index":176},{"end_index":177},{"end_index":178},{"end_index":179},{"end_index":180},{"end_index":181},{"end_index":182},{"end_index":183},{"end_index":184},{"end_index":185},{"end_index":186},{"end_index":187},{"end_index":188},{"end_index":189},{"end_index":190},{"end_index":191},{"end_index":192},{"end_index":193},{"end_index":194},{"end_index":195},{"end_index":196},{"end_index":197},{"end_index":198},{"end_index":199},{"end_index":200},{"end_index":201},{"end_index":202},{"end_index":203},{"end_index":204},{"end_index":205},{"end_index":206},{"end_index":207},{"end_index":208},{"end_index":209},{"end_index":210},{"end_index":211},{"end_index":212},{"end_index":213},{"end_index":214},{"end_index":215},{"end_index":216},{"end_index":217},{"end_index":218},{"end_index":219},{"end_index":220},{"end_index":221},{"end_index":222},{"end_index":223},{"end_index":224},{"end_index":225},{"end_index":226},{"end_index":227},{"end_index":228},{"end_index":229},{"end_index":230},{"end_index":231},{"end_index":232},{"end_index":233},{"end_index":234},{"end_index":235},{"end_index":236},{"end_index":237},{"end_index":238},{"end_index":239},{"end_index":240},{"end_index":241},{"end_index":242},{"end_index":243},{"end_index":244},{"end_index":245},{"end_index":246},{"end_index":247},{"end_index":248},{"end_index":249},{"end_index":250},{"end_index":251},{"end_index":252},{"end_index":253},{"end_index":254},{"end_index":255},{"end_index":256},{"end_index":257},{"end_index":258},{"end_index":259},{"end_index":260},{"end_index":261},{"end_index":262},{"end_index":263},{"end_index":264},{"end_index":265},{"end_index":266},{"end_index":267},{"end_index":268},{"end_index":269},{"end_index":270},{"end_index":271},{"end_index":272},{"end_index":273},{"end_index":274},{"end_index":275},{"end_index":276},{"end_index":277},{"end_index":278},{"end_index":279},{"end_index":280},{"end_index":281},{"end_index":282},{"end_index":283},{"end_index":284},{"end_index":285},{"end_index":286},{"end_index":287},{"end_index":288},{"end_index":289},{"end_index":290},{"end_index":291},{"end_index":292},{"end_index":293},{"end_index":294},{"end_index":295},{"end_index":296},{"end_index":297},{"end_index":298},{"end_index":299},{"end_index":300},{"end_index":301},{"end_index":302},{"end_index":303},{"end_index":304},{"end_index":305},{"end_index":306},{"end_index":307},{"end_index":308},{"end_index":309},{"end_index":310},{"end_index":311},{"end_index":312},{"end_index":313},{"end_index":314},{"end_index":315},{"end_index":316},{"end_index":317},{"end_index":318},{"end_index":319},{"end_index":320},{"end_index":321},{"end_index":322},{"end_index":323},{"end_index":324},{"end_index":325},{"end_index":326},{"end_index":327},{"end_index":328},{"end_index":329},{"end_index":330},{"end_index":331},{"end_index":332},{"end_index":333},{"end_index":334},{"end_index":335},{"end_index":336},{"end_index":337},{"end_index":338},{"end_index":339},{"end_index":340},{"end_index":341},{"end_index":342},{"end_index":343},{"end_index":344},{"end_index":345},{"end_index":346},{"end_index":347},{"end_index":348},{"end_index":349},{"end_index":350},{"end_index":351},{"end_index":352},{"end_index":353},{"end_index":354},{"end_index":355},{"end_index":356},{"end_index":357},{"end_index":358},{"end_index":359},{"end_index":360},{"end_index":361},{"end_index":362},{"end_index":363},{"end_index":364},{"end_index":365},{"end_index":366},{"end_index":367},{"end_index":368},{"end_index":369},{"end_index":370},{"end_index":371},{"end_index":372},{"end_index":373},{"end_index":374},{"end_index":375},{"end_index":376},{"end_index":377},{"end_index":378},{"end_index":379},{"end_index":380},{"end_index":381},{"end_index":382},{"end_index":383},{"end_index":384},{"end_index":385},{"end_index":386},{"end_index":387},{"end_index":388},{"end_index":389},{"end_index":390},{"end_index":391},{"end_index":392},{"end_index":393},{"end_index":394},{"end_index":395},{"end_index":396},{"end_index":397},{"end_index":398},{"end_index":399},{"end_index":400},{"end_index":401},{"end_index":402},{"end_index":403},{"end_index":404},{"end_index":405},{"end_index":406},{"end_index":407},{"end_index":408},{"end_index":409},{"end_index":410},{"end_index":411},{"end_index":412},{"end_index":413},{"end_index":414},{"end_index":415},{"end_index":416},{"end_index":417},{"end_index":418},{"end_index":419},{"end_index":420},{"end_index":421},{"end_index":422},{"end_index":423},{"end_index":424},{"end_index":425},{"end_index":426},{"end_index":427},{"end_index":428},{"end_index":429},{"end_index":430},{"end_index":431},{"end_index":432},{"end_index":433},{"end_index":434},{"end_index":435},{"end_index":436},{"end_index":437},{"end_index":438},{"end_index":439},{"end_index":440},{"end_index":441},{"end_index":442},{"end_index":443},{"end_index":444},{"end_index":445},{"end_index":446},{"end_index":447},{"end_index":448},{"end_index":449},{"end_index":450},{"end_index":451},{"end_index":452},{"end_index":453},{"end_index":454},{"end_index":455},{"end_index":456},{"end_index":457},{"end_index":458},{"end_index":459},{"end_index":460},{"end_index":461},{"end_index":462},{"end_index":463},{"end_index":464},{"end_index":465},{"end_index":466},{"end_index":467},{"end_index":468},{"end_index":469},{"end_index":470},{"end_index":471},{"end_index":472},{"end_index":473},{"end_index":474},{"end_index":475},{"end_index":476},{"end_index":477},{"end_index":478},{"end_index":479},{"end_index":480},{"end_index":481},{"end_index":482},{"end_index":483},{"end_index":484},{"end_index":485},{"end_index":486},{"end_index":487},{"end_index":488},{"end_index":489},{"end_index":490},{"end_index":491},{"end_index":492},{"end_index":493},{"end_index":494},{"end_index":495},{"end_index":496},{"end_index":497},{"end_index":498},{"end_index":499},{"end_index":500}],"num_size_each":[{"num_size_index":0},{"num_size_index":1},{"num_size_index":2},{"num_size_index":3},{"num_size_index":4},{"num_size_index":5},{"num_size_index":6},{"num_size_index":7},{"num_size_index":8},{"num_size_index":9},{"num_size_index":10},{"num_size_index":11},{"num_size_index":12},{"num_size_index":13},{"num_size_index":14},{"num_size_index":15},{"num_size_index":16},{"num_size_index":17},{"num_size_index":18},{"num_size_index":19},{"num_size_index":20},{"num_size_index":21},{"num_size_index":22},{"num_size_index":23},{"num_size_index":24},{"num_size_index":25},{"num_size_index":26},{"num_size_index":27},{"num_size_index":28},{"num_size_index":29},{"num_size_index":30},{"num_size_index":31},{"num_size_index":32},{"num_size_index":33},{"num_size_index":34},{"num_size_index":35},{"num_size_index":36},{"num_size_index":37},{"num_size_index":38},{"num_size_index":39},{"num_size_index":40},{"num_size_index":41},{"num_size_index":42},{"num_size_index":43},{"num_size_index":44},{"num_size_index":45},{"num_size_index":46},{"num_size_index":47},{"num_size_index":48},{"num_size_index":49},{"num_size_index":50},{"num_size_index":51},{"num_size_index":52},{"num_size_index":53},{"num_size_index":54},{"num_size_index":55},{"num_size_index":56},{"num_size_index":57},{"num_size_index":58},{"num_size_index":59},{"num_size_index":60},{"num_size_index":61},{"num_size_index":62},{"num_size_index":63},{"num_size_index":64},{"num_size_index":65},{"num_size_index":66},{"num_size_index":67},{"num_size_index":68},{"num_size_index":69},{"num_size_index":70},{"num_size_index":71},{"num_size_index":72},{"num_size_index":73},{"num_size_index":74},{"num_size_index":75},{"num_size_index":76},{"num_size_index":77},{"num_size_index":78},{"num_size_index":79},{"num_size_index":80},{"num_size_index":81},{"num_size_index":82},{"num_size_index":83},{"num_size_index":84},{"num_size_index":85},{"num_size_index":86},{"num_size_index":87},{"num_size_index":88},{"num_size_index":89},{"num_size_index":90},{"num_size_index":91},{"num_size_index":92},{"num_size_index":93},{"num_size_index":94},{"num_size_index":95},{"num_size_index":96},{"num_size_index":97},{"num_size_index":98},{"num_size_index":99},{"num_size_index":100},{"num_size_index":101},{"num_size_index":102},{"num_size_index":103},{"num_size_index":104},{"num_size_index":105},{"num_size_index":106},{"num_size_index":107},{"num_size_index":108},{"num_size_index":109},{"num_size_index":110},{"num_size_index":111},{"num_size_index":112},{"num_size_index":113},{"num_size_index":114},{"num_size_index":115},{"num_size_index":116},{"num_size_index":117},{"num_size_index":118},{"num_size_index":119},{"num_size_index":120},{"num_size_index":121},{"num_size_index":122},{"num_size_index":123},{"num_size_index":124},{"num_size_index":125},{"num_size_index":126},{"num_size_index":127},{"num_size_index":128},{"num_size_index":129},{"num_size_index":130},{"num_size_index":131},{"num_size_index":132},{"num_size_index":133},{"num_size_index":134},{"num_size_index":135},{"num_size_index":136},{"num_size_index":137},{"num_size_index":138},{"num_size_index":139},{"num_size_index":140},{"num_size_index":141},{"num_size_index":142},{"num_size_index":143},{"num_size_index":144},{"num_size_index":145},{"num_size_index":146},{"num_size_index":147},{"num_size_index":148},{"num_size_index":149},{"num_size_index":150},{"num_size_index":151},{"num_size_index":152},{"num_size_index":153},{"num_size_index":154},{"num_size_index":155},{"num_size_index":156},{"num_size_index":157},{"num_size_index":158},{"num_size_index":159},{"num_size_index":160},{"num_size_index":161},{"num_size_index":162},{"num_size_index":163},{"num_size_index":164},{"num_size_index":165},{"num_size_index":166},{"num_size_index":167},{"num_size_index":168},{"num_size_index":169},{"num_size_index":170},{"num_size_index":171},{"num_size_index":172},{"num_size_index":173},{"num_size_index":174},{"num_size_index":175},{"num_size_index":176},{"num_size_index":177},{"num_size_index":178},{"num_size_index":179},{"num_size_index":180},{"num_size_index":181},{"num_size_index":182},{"num_size_index":183},{"num_size_index":184},{"num_size_index":185},{"num_size_index":186},{"num_size_index":187},{"num_size_index":188},{"num_size_index":189},{"num_size_index":190},{"num_size_index":191},{"num_size_index":192},{"num_size_index":193},{"num_size_index":194},{"num_size_index":195},{"num_size_index":196},{"num_size_index":197},{"num_size_index":198},{"num_size_index":199},{"num_size_index":200},{"num_size_index":201},{"num_size_index":202},{"num_size_index":203},{"num_size_index":204},{"num_size_index":205},{"num_size_index":206},{"num_size_index":207},{"num_size_index":208},{"num_size_index":209},{"num_size_index":210},{"num_size_index":211},{"num_size_index":212},{"num_size_index":213},{"num_size_index":214},{"num_size_index":215},{"num_size_index":216},{"num_size_index":217},{"num_size_index":218},{"num_size_index":219},{"num_size_index":220},{"num_size_index":221},{"num_size_index":222},{"num_size_index":223},{"num_size_index":224},{"num_size_index":225},{"num_size_index":226},{"num_size_index":227},{"num_size_index":228},{"num_size_index":229},{"num_size_index":230},{"num_size_index":231},{"num_size_index":232},{"num_size_index":233},{"num_size_index":234},{"num_size_index":235},{"num_size_index":236},{"num_size_index":237},{"num_size_index":238},{"num_size_index":239},{"num_size_index":240},{"num_size_index":241},{"num_size_index":242},{"num_size_index":243},{"num_size_index":244},{"num_size_index":245},{"num_size_index":246},{"num_size_index":247},{"num_size_index":248},{"num_size_index":249},{"num_size_index":250},{"num_size_index":251},{"num_size_index":252},{"num_size_index":253},{"num_size_index":254},{"num_size_index":255},{"num_size_index":256},{"num_size_index":257},{"num_size_index":258},{"num_size_index":259},{"num_size_index":260},{"num_size_index":261},{"num_size_index":262},{"num_size_index":263},{"num_size_index":264},{"num_size_index":265},{"num_size_index":266},{"num_size_index":267},{"num_size_index":268},{"num_size_index":269},{"num_size_index":270},{"num_size_index":271},{"num_size_index":272},{"num_size_index":273},{"num_size_index":274},{"num_size_index":275},{"num_size_index":276},{"num_size_index":277},{"num_size_index":278},{"num_size_index":279},{"num_size_index":280},{"num_size_index":281},{"num_size_index":282},{"num_size_index":283},{"num_size_index":284},{"num_size_index":285},{"num_size_index":286},{"num_size_index":287},{"num_size_index":288},{"num_size_index":289},{"num_size_index":290},{"num_size_index":291},{"num_size_index":292},{"num_size_index":293},{"num_size_index":294},{"num_size_index":295},{"num_size_index":296},{"num_size_index":297},{"num_size_index":298},{"num_size_index":299},{"num_size_index":300},{"num_size_index":301},{"num_size_index":302},{"num_size_index":303},{"num_size_index":304},{"num_size_index":305},{"num_size_index":306},{"num_size_index":307},{"num_size_index":308},{"num_size_index":309}],"duration_each":[{"duration_index":0},{"duration_index":1}],"end":7052,"above":false,"below":true,"num_size":310,"num_color":"#38b6ff","num_bold":false,"duration":2});
+			_Element.prototype.settings.page_element_id = "802830894535103396";
+
+			_Element.prototype.element_id = "51471c0e-6b89-470b-9721-9c9fb3340ad9";
+			_Element.prototype.user_id = "132100490";
+			_Element.prototype.site_id = "997528044963189050";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-859636669115165528-1.1.6/assets/";
+			new _Element({
+				el: '#element-51471c0e-6b89-470b-9721-9c9fb3340ad9'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement802830894535103396();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement802830894535103396, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement802830894535103396();
+		}
+	});
+}
+
+</script></div></div>
+
+<div class="wsite-spacer" style="height:30px;"></div>
+
+<div class="paragraph" style="text-align:center;"><font size="6"><strong style="">Thank you to everyone who has donated. <br>​We appreciate your contribution to our mission and social justice.</strong>&nbsp;</font></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<span class="imgPusher" style="float:left;height:0px"></span><span style="display: table;width:auto;position:relative;float:left;max-width:100%;;clear:left;margin-top:0px;*margin-top:0px"><a href="https://www.bridgingtech.org/uploads/1/3/2/1/132100490/edited/bridging-tech-logo.png" onclick="if (!lightboxLoaded) return false" class="w-fancybox"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/bridging-tech-logo.png" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:0; max-width:100%" alt="Picture" class="galleryImageBorder wsite-image"></a><span style="display: table-caption; caption-side: bottom; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span>
+<div class="paragraph" style="display:block;"><br>​<br></div>
+<hr style="width:100%;clear:both;visibility:hidden;">
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-122" style="height: auto;background-color: #323D3F;background-image: none;is_customized: ;">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:75px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -25px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:40.891089108911%; padding:0 25px;">
+					
+						
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff"><strong><font size="6">This Is Nayel.</font></strong></font></h2>
+
+<div><div style="height: 20px; overflow: hidden; width: 50%;"></div>
+<hr class="styled-hr" style="width:50%;">
+<div style="height: 20px; overflow: hidden; width: 50%;"></div></div>
+
+<div class="paragraph" style="text-align:center;"><span><font color="#ffffff"><font size="5">&nbsp;Nayel lived in one of the shelters we serve in Denver, Colorado, and his family hoped to give him a Bridging Tech laptop during the holiday season.<br><br>He attended school from home and needed a laptop to go to class, complete homework, and access learning materials. With your help, we were able to provide him with his own, permanent laptop for learning.<br><br>His parents believe that Bridging Tech's generous donation will "set Nayel up with a great foundation for his education." They want him to have exposure to technology, since it is so prevalent in our modern society.</font></font></span></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://www.bridgingtech.org/testimonials.html">
+<span class="wsite-button-inner">Read More About the Crucial Device Need</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:59.108910891089%; padding:0 25px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:left">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-7764_orig.jpeg" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:73px;"></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-110" style="height: auto;">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div class="wsite-spacer" style="height:50px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font size="7">Help Us Change The Narrative.</font></h2>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:48.695652173913%; padding:0 15px;">
+					
+						
+
+<div><div style="height:0px;overflow:hidden"></div>
+<div id="650806963794078875-slideshow" class="wslide"><table class="wslide-main"><tbody><tr><td><div class="wslide-content disable-user-select" style="height: 140px;">&nbsp;<div class="wslide-content-inner"><div class="wslide-slides"><div class="wslide-slide" style=""><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 106px; left: -53px; top: -71px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/image0-1_orig.jpeg" style="width: 106px;"><div style="opacity: 0.99;" class="wslide-caption wslide-caption-bottom"><div class="wslide-caption-text">A student receiving a bridging tech laptop</div><div class="wslide-caption-bg"></div></div></div></div></div><div class="wslide-slide" style="display: none;"><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 226px; left: -113px; top: -150px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1847_orig.jpg" style="width: 226px;"><div style="opacity: 0.99;" class="wslide-caption wslide-caption-bottom"><div class="wslide-caption-text">A student receiving a bridging tech laptop and backpack from our partners at Hamilton Families</div><div class="wslide-caption-bg"></div></div></div></div></div><div class="wslide-slide" style="display: none;"><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 226px; left: -113px; top: -150px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/20201006-121954_orig.jpg" style="width: 226px;"><div style="opacity: 0.99;" class="wslide-caption wslide-caption-bottom"><div class="wslide-caption-text">A masked student receiving a laptop</div><div class="wslide-caption-bg"></div></div></div></div></div><div class="wslide-slide" style="display: none;"><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 226px; left: -113px; top: -150px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1851-1_orig.jpg" style="width: 226px;"><div style="opacity: 0.99;" class="wslide-caption wslide-caption-bottom"><div class="wslide-caption-text">A family member of a student receiving a laptop from Bridging Tech</div><div class="wslide-caption-bg"></div></div></div></div></div><div class="wslide-slide" style="display: none;"><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 226px; left: -113px; top: -150px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1852-1_orig.jpg" style="width: 226px;"></div></div></div><div class="wslide-slide" style="display: none;"><div class="wslide-slide-inner1"><div class="wslide-slide-inner2" style="width: 226px; left: -113px; top: -150px;"><img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/image0-2_orig.jpeg" style="width: 226px;"></div></div></div></div></div><div class="wslide-overlay-top-left disable-user-select"><div class="wslide-button-wrap" style="display: none;"><span class="wslide-play wslide-button disable-user-select" style="opacity: 1;"><span class="wslide-button-inner">Play <span class="wslide-button-icon"></span></span><span class="wslide-button-bg"></span></span></div><div class="wslide-button-wrap" style="display: none;"><span class="wslide-pause wslide-button disable-user-select" style="opacity: 0; display: none;"><span class="wslide-button-inner">Pause <span class="wslide-button-icon"></span></span><span class="wslide-button-bg"></span></span></div></div><div class="wslide-overlay-top-right disable-user-select"><div class="wslide-button-wrap" style="display: none;"><span class="wslide-prev wslide-button disable-user-select"><span class="wslide-button-inner"><span class="wslide-button-icon"></span></span><span class="wslide-button-bg"></span></span></div>&nbsp;<div class="wslide-button-wrap" style="display: none;"><span class="wslide-next wslide-button disable-user-select"><span class="wslide-button-inner"><span class="wslide-button-icon"></span></span><span class="wslide-button-bg"></span></span></div></div><div class="wslide-overlay-left disable-user-select"></div><div class="wslide-overlay-right disable-user-select"></div></div></td></tr><tr><td class="wslide-link-cell" style="width: auto;"><div class="wslide-links disable-user-select wslide-links-bottom wslide-thumbnail-links" style="height: 75px;"><div class="wslide-links-inner"><table><tbody><tr><td><a class="wslide-link wslide-link-thumbnail wslide-link-active"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/image0-1.jpeg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1847.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/20201006-121954.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1851-1.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1852-1.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/image0-2.jpeg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-0954.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -35px; left: -47px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1062.jpg" width="94" height="70"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -35px; left: -47px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1197.jpg" width="94" height="70"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -35px; left: -47px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-1790.jpg" width="94" height="70"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/img-9463.jpg" width="70" height="94"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -63px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/photo-2023-04-02-17-59-10.jpg" width="70" height="125"></div></div></a></td><td><a class="wslide-link wslide-link-thumbnail"><div class="wslide-link-inner1"><div class="wslide-link-inner2"><img style="top: -47px; left: -35px;" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/resized-20230322-191205.jpg" width="70" height="94"></div></div></a></td></tr></tbody></table></div></div></td></tr></tbody></table></div>
+<script type="text/javascript">
+(function(jQuery) {
+function init() { window.wSlideshow && window.wSlideshow.render({elementID:"650806963794078875",nav:"thumbnails",navLocation:"bottom",captionLocation:"bottom",transition:"fade",autoplay:"0",speed:"3",aspectRatio:"16:9",showControls:"true",randomStart:"false",images:[{"url":"1\/3\/2\/1\/132100490\/image0-1.jpeg","width":"480","height":"640","caption":"A student receiving a bridging tech laptop"},{"url":"1\/3\/2\/1\/132100490\/img-1847.jpg","width":"480","height":"640","caption":"A student receiving a bridging tech laptop and backpack from our partners at Hamilton Families"},{"url":"1\/3\/2\/1\/132100490\/20201006-121954.jpg","width":"600","height":"800","caption":"A masked student receiving a laptop"},{"url":"1\/3\/2\/1\/132100490\/img-1851-1.jpg","width":"480","height":"640","caption":"A family member of a student receiving a laptop from Bridging Tech"},{"url":"1\/3\/2\/1\/132100490\/img-1852-1.jpg","width":"480","height":"640"},{"url":"1\/3\/2\/1\/132100490\/image0-2.jpeg","width":"480","height":"640"},{"url":"1\/3\/2\/1\/132100490\/img-0954.jpg","width":"600","height":"800"},{"url":"1\/3\/2\/1\/132100490\/img-1062.jpg","width":"480","height":"360"},{"url":"1\/3\/2\/1\/132100490\/img-1197.jpg","width":"800","height":"600"},{"url":"1\/3\/2\/1\/132100490\/img-1790.jpg","width":"800","height":"600"},{"url":"1\/3\/2\/1\/132100490\/img-9463.jpg","width":600,"height":800,"fullHeight":800,"fullWidth":600},{"url":"1\/3\/2\/1\/132100490\/photo-2023-04-02-17-59-10.jpg","width":450,"height":800,"fullHeight":1600,"fullWidth":900},{"url":"1\/3\/2\/1\/132100490\/resized-20230322-191205.jpg","width":360,"height":480,"fullHeight":480,"fullWidth":360}]}) }
+jQuery(document).ready(init);
+})(window.jQuery)
+</script>
+
+<div style="height:20px;overflow:hidden"></div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:51.304347826087%; padding:0 15px;">
+					
+						
+
+<blockquote><font size="6"><span style="color:rgb(33, 33, 33)">Youth experiencing homelessness (YEH) have a higher prevalence of mental health conditions such as depression, conduct disorders, posttraumatic stress disorder,&nbsp; and suicide attempts and ideation [</span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5989062/#ref3">3</a><span style="color:rgb(33, 33, 33)">-</span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5989062/#ref7">7</a><span style="color:rgb(33, 33, 33)">].</span></font><br><font size="4"><span style="color:rgb(33, 33, 33)">Source: VonHoltz, Lauren A Houdek et al. “Internet and Social Media Access Among Youth Experiencing Homelessness: Mixed-Methods Study.”&nbsp;</span><em style="color:rgb(33, 33, 33)">Journal of medical Internet research</em><span style="color:rgb(33, 33, 33)">&nbsp;vol. 20,5 e184. 22 May. 2018, doi:10.2196/jmir.9306</span></font></blockquote>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div class="paragraph"><font size="5">Continued learning:<br><br>Our <strong>latest Wi-Fi and hotspot pilot program</strong> is led by Tony Chun (pictured below), who is an Intel Encore Fellow currently giving his time to public service at Bridging Tech. We launched this pilot program because we aim to provide our students with free or reduced Internet access on top of their own personal laptops for learning. In 2024, we reported findings and learned how tech benefits students.<br><br>Bridging Tech's goal is to bridge the digital divide, and every day we are finding new ways to better serve our students. Currently, we focus on offering <strong>resources and services in the three major areas of technology access</strong>: </font><ul><li><font size="5">Technological hardware and software</font></li><li><font size="5">Internet connectivity</font></li><li><font size="5">Digital literacy</font></li></ul></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/20230527-121659_orig.jpg" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/20230527-123836_orig.jpg" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-small wsite-button-normal" href="https://www.bridgingtech.org/">
+<span class="wsite-button-inner">View Our Mission</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-10" style="height: 430px;background-color: #38b6ff;background-image: none;">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<h2 class="wsite-content-title" style="text-align:center;"><font color="#ffffff" size="7">The Digital Divide Is As Acute As Ever.</font></h2>
+
+<div class="paragraph" style="text-align:center;"><strong><font color="#ffffff" size="4">Sign up for our newsletter so that you are always updated with the latest news on our mission of giving children the equitable opportunity to learn.</font></strong></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://bridgingtech.substack.com/p/coming-soon?r=flocy&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=copy" target="_blank">
+<span class="wsite-button-inner">Sign Up to Receive Our Newsletter</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-153" style="background-color: #ffffff;background-image: none;">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:54%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:right">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/bridging-tech-logo(1).png" alt="Picture" style="width:379;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:46%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:left">
+<a>
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/clipart1862574.png" alt="Picture" style="width:269;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div><div id="573953430996731907" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/74517381.html" width="711.11" height="400" scrolling="no" style="border:none;" allowfullscreen=""></iframe></div>
+
+
+
+</div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-16" style="background-color: #38b6ff;background-image: none;">
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<h2 class="wsite-content-title" style="text-align:center;"><font size="7" color="#dab844">Get In Touch.</font></h2>
+
+<div class="paragraph" style="text-align:center;"><strong><font size="4" color="#e9cf76">Our long-term goals include connecting community members to policymakers who can push for increased technology access and training, and for helping the people facing housing insecurity transition out of poverty through skill-building and job placement programs.​ ​​If you would like to help, then we would love to hear from you.</font></strong></div>
+
+<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
+<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://www.bridgingtech.org/contact.html">
+<span class="wsite-button-inner">contact us</span>
+</a>
+<div style="height: 10px; overflow: hidden;"></div></div>
+
+<div id="952030927913886650"><div><style type="text/css">
+	#element-a4a2e01f-ab31-44d6-aaf7-eec95ad562de a.back-to-top {
+  display: none;
+  width: 60px;
+  height: 60px;
+  text-indent: -9999px;
+  position: fixed;
+  z-index: 999;
+  bottom: 70px;
+  background: #38b6ff url("//marketplace.editmysite.com/uploads/b/marketplace-elements-569198776394566218-1.0.1/assets/up-arrow.png") no-repeat center 43%;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+#element-a4a2e01f-ab31-44d6-aaf7-eec95ad562de a.back-to-top.back-to-top-left {
+  left: 30px;
+}
+#element-a4a2e01f-ab31-44d6-aaf7-eec95ad562de a.back-to-top.back-to-top-right {
+  right: 30px;
+}
+
+</style><div id="element-a4a2e01f-ab31-44d6-aaf7-eec95ad562de" data-platform-element-id="569198776394566218-1.0.1" class="platform-element-contents">
+	<a href="https://www.bridgingtech.org/#" class="back-to-top back-to-top-right"></a>
+
+</div>
+<div style="clear:both;"></div><script type="text/javascript" class="element-script">function setupElement952030927913886650() {
+	var requireFunc = window.platformElementRequire || window.require;
+
+	// Relies on a global require, specific to platform elements
+	requireFunc([
+		'w-global',
+		'underscore',
+		'jquery',
+		'backbone',
+		'util/platform/elements/PlatformElement',
+		'util/platform/elements/PlatformElementSettings'
+	], function(
+		_W,
+		_,
+		$,
+		Backbone,
+		PlatformElement,
+		PlatformElementSettings
+	) {
+		var dependencies = null || [];
+		var platform_element_id = "569198776394566218-1.0.1";
+
+		if (typeof _W.loadedPlatformDependencies === 'undefined') {
+			_W.loadedPlatformDependencies = [];
+		}
+
+		if (typeof _W.platformElements === 'undefined') {
+			_W.platformElements = [];
+		}
+
+		if (typeof _W.platformElements[platform_element_id] === 'undefined') {
+			_W.platformElements[platform_element_id] = {};
+			_W.platformElements[platform_element_id].deferredObject = new $.Deferred();
+			_W.platformElements[platform_element_id].deferredPromise = _W.platformElements[platform_element_id].deferredObject.promise();
+		}
+
+		if(_.intersection(_W.loadedPlatformDependencies, dependencies).length !== dependencies.length){
+			_.reduce(dependencies, function(promise, nextScript){
+				_W.loadedPlatformDependencies.push(nextScript);
+				return promise.then(function(){
+					return $.getScript(nextScript);
+				});
+			}, $().promise()).then(function(){
+				_W.platformElements[platform_element_id].deferredObject.resolve();
+			});
+		}
+
+		if (dependencies.length === 0){
+			_W.platformElements[platform_element_id].deferredObject.resolve();
+		}
+
+		_W.platformElements[platform_element_id].deferredPromise.done(function(){
+			var _ElementDefinition = PlatformElement.extend({
+    initialize: function(options) {
+	    this.amountScrolled = 300;
+
+	    var self = this;
+
+	    $(window).bind('scroll', function (ev) {
+		    self.checkAppear();
+	    });
+    },
+
+    events: {
+    	"click a.back-to-top": "goBackToTop"
+    },
+
+	goBackToTop: function() {
+
+		var animateTimeMS = 1000 - (parseInt(this.settings.get("scroll_speed")) * 100);
+
+		$('html, body').animate({
+			scrollTop: 0
+		}, animateTimeMS);
+		
+		return false;
+	},
+
+	checkAppear: function() {
+		if ( $(window).scrollTop() > this.amountScrolled ) {
+			$('a.back-to-top').fadeIn('slow');
+		} else {
+			$('a.back-to-top').fadeOut('slow');
+		}
+	}
+});
+
+;
+
+			if (typeof _ElementDefinition == 'undefined' || typeof _ElementDefinition == 'null') {
+				var _ElementDefinition = PlatformElement.extend({});
+			}
+
+			var _Element = _ElementDefinition.extend({
+				initialize: function() {
+					// we still want to call the initialize function defined by the developer
+					// however, we don't want to call it until placeholders have been replaced
+					this.placeholderInterval = setInterval(function() {
+						// so use setInterval to check for placeholders.
+						if (this.$('.platform-element-child-placeholder').length == 0) {
+							clearInterval(this.placeholderInterval);
+							this.constructor.__super__.initialize.apply(this);
+						}
+					}.bind(this), 100);
+				}
+			});
+
+			_Element.prototype.settings = new PlatformElementSettings({"icon_size_each":[{"icon_size_index":0},{"icon_size_index":1},{"icon_size_index":2},{"icon_size_index":3},{"icon_size_index":4},{"icon_size_index":5},{"icon_size_index":6},{"icon_size_index":7},{"icon_size_index":8},{"icon_size_index":9},{"icon_size_index":10},{"icon_size_index":11},{"icon_size_index":12},{"icon_size_index":13},{"icon_size_index":14},{"icon_size_index":15},{"icon_size_index":16},{"icon_size_index":17},{"icon_size_index":18},{"icon_size_index":19},{"icon_size_index":20},{"icon_size_index":21},{"icon_size_index":22},{"icon_size_index":23},{"icon_size_index":24},{"icon_size_index":25},{"icon_size_index":26},{"icon_size_index":27},{"icon_size_index":28},{"icon_size_index":29},{"icon_size_index":30},{"icon_size_index":31},{"icon_size_index":32},{"icon_size_index":33},{"icon_size_index":34},{"icon_size_index":35},{"icon_size_index":36},{"icon_size_index":37},{"icon_size_index":38},{"icon_size_index":39},{"icon_size_index":40},{"icon_size_index":41},{"icon_size_index":42},{"icon_size_index":43},{"icon_size_index":44},{"icon_size_index":45},{"icon_size_index":46},{"icon_size_index":47},{"icon_size_index":48},{"icon_size_index":49},{"icon_size_index":50},{"icon_size_index":51},{"icon_size_index":52},{"icon_size_index":53},{"icon_size_index":54},{"icon_size_index":55},{"icon_size_index":56},{"icon_size_index":57},{"icon_size_index":58},{"icon_size_index":59}],"scroll_speed_each":[{"scroll_speed_index":0},{"scroll_speed_index":1},{"scroll_speed_index":2}],"margin_bottom_each":[{"margin_bottom_index":0},{"margin_bottom_index":1},{"margin_bottom_index":2},{"margin_bottom_index":3},{"margin_bottom_index":4},{"margin_bottom_index":5},{"margin_bottom_index":6},{"margin_bottom_index":7},{"margin_bottom_index":8},{"margin_bottom_index":9},{"margin_bottom_index":10},{"margin_bottom_index":11},{"margin_bottom_index":12},{"margin_bottom_index":13},{"margin_bottom_index":14},{"margin_bottom_index":15},{"margin_bottom_index":16},{"margin_bottom_index":17},{"margin_bottom_index":18},{"margin_bottom_index":19},{"margin_bottom_index":20},{"margin_bottom_index":21},{"margin_bottom_index":22},{"margin_bottom_index":23},{"margin_bottom_index":24},{"margin_bottom_index":25},{"margin_bottom_index":26},{"margin_bottom_index":27},{"margin_bottom_index":28},{"margin_bottom_index":29},{"margin_bottom_index":30},{"margin_bottom_index":31},{"margin_bottom_index":32},{"margin_bottom_index":33},{"margin_bottom_index":34},{"margin_bottom_index":35},{"margin_bottom_index":36},{"margin_bottom_index":37},{"margin_bottom_index":38},{"margin_bottom_index":39},{"margin_bottom_index":40},{"margin_bottom_index":41},{"margin_bottom_index":42},{"margin_bottom_index":43},{"margin_bottom_index":44},{"margin_bottom_index":45},{"margin_bottom_index":46},{"margin_bottom_index":47},{"margin_bottom_index":48},{"margin_bottom_index":49},{"margin_bottom_index":50},{"margin_bottom_index":51},{"margin_bottom_index":52},{"margin_bottom_index":53},{"margin_bottom_index":54},{"margin_bottom_index":55},{"margin_bottom_index":56},{"margin_bottom_index":57},{"margin_bottom_index":58},{"margin_bottom_index":59},{"margin_bottom_index":60},{"margin_bottom_index":61},{"margin_bottom_index":62},{"margin_bottom_index":63},{"margin_bottom_index":64},{"margin_bottom_index":65},{"margin_bottom_index":66},{"margin_bottom_index":67},{"margin_bottom_index":68},{"margin_bottom_index":69}],"margin_horizontal_each":[{"margin_horizontal_index":0},{"margin_horizontal_index":1},{"margin_horizontal_index":2},{"margin_horizontal_index":3},{"margin_horizontal_index":4},{"margin_horizontal_index":5},{"margin_horizontal_index":6},{"margin_horizontal_index":7},{"margin_horizontal_index":8},{"margin_horizontal_index":9},{"margin_horizontal_index":10},{"margin_horizontal_index":11},{"margin_horizontal_index":12},{"margin_horizontal_index":13},{"margin_horizontal_index":14},{"margin_horizontal_index":15},{"margin_horizontal_index":16},{"margin_horizontal_index":17},{"margin_horizontal_index":18},{"margin_horizontal_index":19},{"margin_horizontal_index":20},{"margin_horizontal_index":21},{"margin_horizontal_index":22},{"margin_horizontal_index":23},{"margin_horizontal_index":24},{"margin_horizontal_index":25},{"margin_horizontal_index":26},{"margin_horizontal_index":27},{"margin_horizontal_index":28},{"margin_horizontal_index":29}],"background_color":"#38b6ff","icon_size":60,"scroll_speed":3,"margin_bottom":70,"left_or_right":"right","margin_horizontal":30});
+			_Element.prototype.settings.page_element_id = "952030927913886650";
+
+			_Element.prototype.element_id = "a4a2e01f-ab31-44d6-aaf7-eec95ad562de";
+			_Element.prototype.user_id = "132100490";
+			_Element.prototype.site_id = "997528044963189050";
+			_Element.prototype.assets_path = "//marketplace.editmysite.com/uploads/b/marketplace-elements-569198776394566218-1.0.1/assets/";
+			new _Element({
+				el: '#element-a4a2e01f-ab31-44d6-aaf7-eec95ad562de'
+			});
+		});
+	});
+
+}
+
+if (typeof document.documentElement.appReady == 'undefined') {
+	document.documentElement.appReady = 0;
+}
+
+if (document.documentElement.appReady || (window.inEditor && window.inEditor())) {
+	setupElement952030927913886650();
+} else if (document.createEvent && document.addEventListener) {
+	document.addEventListener('appReady', setupElement952030927913886650, false);
+} else {
+	document.documentElement.attachEvent('onpropertychange', function(event){
+		if (event.propertyName == 'appReady') {
+			setupElement952030927913886650();
+		}
+	});
+}
+
+</script></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="footer-wrap">
+        <div class="footer"><div class="wsite-elements wsite-footer">
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:33.751374633431%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div id="129557934365538491" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/embed.html" width="180" height="240" style="border:1px solid #EEE; background:white;" frameborder="10" scrolling="no"></iframe></div>
+
+
+
+</div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:35.32120601173%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:14px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font size="2">Nationwide Impact, Youth Focused, Solutions Oriented.That's Bridging Tech Today!&nbsp;</font></h2>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
+<a href="https://www.bridgingtech.org/">
+<img src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/full-logo-1.png" alt="Picture" style="width:auto;max-width:100%">
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div class="paragraph" style="text-align:center;"><strong><a href="https://www.bridgingtech.org/">Our Mission</a>&nbsp; &nbsp; &nbsp; &nbsp;</strong><font color="#818181">|</font><strong>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.bridgingtech.org/get-involved.html">Opportunities</a>&nbsp; &nbsp; &nbsp; &nbsp;</strong><font color="#818181">|</font><strong>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.bridgingtech.org/contact.html">Contact</a></strong><br><br><font size="4">​Bridging Tech is a 501(c)(3) nonprofit organization<br><strong>EIN: 85-1031712</strong><br><em>Bridging Tech<br>205 De Anza Blvd, #53<br>San Mateo, CA 94402</em></font><br><br></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:30.927419354839%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:13px;"></div>
+
+<div class="paragraph" style="text-align:center;"><strong><font size="3" color="#2a2a2a">SEARCH OUR SITE</font></strong></div>
+
+<div class="wsite-search-element-outer"><div class="wsite-search-element-align-center" style="padding: 30px 0 10px 0">
+  <form class="wsite-search-element-form" action="https://www.bridgingtech.org/apps/search" method="get">
+    <div class="wsite-search-element">
+      <input class="wsite-input wsite-search-element-input" type="text" name="q" placeholder="Search" autocomplete="off" aria-label="Search">
+      <span class="wsite-search-element-submit" title="Search"></span>
+    </div>
+  </form>
+</div></div>
+
+<div class="wsite-spacer" style="height:44px;"></div>
+
+<div style="text-align:center;"><div style="height:10px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class="first-child wsite-social-item wsite-social-facebook" href="https://www.facebook.com/bridgingtechcharity/" target="_blank" alt="Facebook" aria-label="Facebook"><span class="wsite-social-item-inner"></span></a><a class="wsite-social-item wsite-social-instagram" href="https://www.instagram.com/bridgingtech/" target="_blank" alt="Instagram" aria-label="Instagram"><span class="wsite-social-item-inner"></span></a><a class="wsite-social-item wsite-social-linkedin" href="https://linkedin.com/company/bridgingtech" target="_blank" alt="Linkedin" aria-label="Linkedin"><span class="wsite-social-item-inner"></span></a><a class="last-child wsite-social-item wsite-social-twitter" href="https://twitter.com/BridgingTech_" target="_blank" alt="Twitter" aria-label="Twitter"><span class="wsite-social-item-inner"></span></a></span>
+<div style="height:10px;overflow:hidden"></div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div></div></div>
+    </div><!-- end footer-wrap -->
+  </div><!-- /.wrapper -->
+
+  <div id="navMobile" class="nav mobile-nav">
+    <a class="hamburger" aria-label="Menu" href="https://www.bridgingtech.org/#"><span></span></a>
+    <ul class="wsite-menu-default">
+    		<li id="active" class="wsite-menu-item-wrap">
+    			<a href="https://www.bridgingtech.org/" class="wsite-menu-item">
+    				Home
+    			</a>
+    			
+    		</li>
+    		<li id="pg189014954289029605" class="wsite-menu-item-wrap has-submenu">
+    			<a class="wsite-menu-item">
+    				About
+    			</a><span class="icon-caret"></span>
+    			<div class="wsite-menu-wrap" style="display:none">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-721279417132468821" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/testimonials.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Testimonials
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-464852606745224972" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/news.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			News
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-977341748239390255" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/about-588398.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Our Story
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-923720146873875949" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/our-people.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Our People
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-764961506421402190" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/our-donors.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Our Donors
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-845226641953984434" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/our-partners.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Our Partners
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-318970128933716144" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/about-588398-431560.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Collaboration for Ed Tech
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-300358156926469362" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/community-and-online-events.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Community and Online Events
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div>
+
+    		</li>
+    		<li id="pg511912070472738314" class="wsite-menu-item-wrap has-submenu">
+    			<a href="https://www.bridgingtech.org/giving.html" class="wsite-menu-item">
+    				Donate
+    			</a><span class="icon-caret"></span>
+    			<div class="wsite-menu-wrap" style="display:none">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-475469329746787353" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/dafgiving.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			DAF  Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-430796861610240898" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/stockgiving.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Stock Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-540375453702194050" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/crypto-currency-giving.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Cyber Currency  Donations
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-149681030539389925" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/fundraiser-202173.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			2024 Brooklyn Half Marathon
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-266393747240675495" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/donate-a-device1.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Donate a Device
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div>
+
+    		</li>
+    		<li id="pg970661295166777187" class="wsite-menu-item-wrap has-submenu">
+    			<a class="wsite-menu-item">
+    				Contact
+    			</a><span class="icon-caret"></span>
+    			<div class="wsite-menu-wrap" style="display:none">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-928741803877788646" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/student-resources.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Student Resources
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-681242054623211789" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/contact.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Contact
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-555840124717166750" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/product-support.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Product Support
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div>
+
+    		</li>
+    		<li id="pg654296754421176270" class="wsite-menu-item-wrap has-submenu">
+    			<a class="wsite-menu-item">
+    				Tutoring
+    			</a><span class="icon-caret"></span>
+    			<div class="wsite-menu-wrap" style="display:none">
+	<ul class="wsite-menu">
+		<li id="wsite-nav-117044876236741000" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/tutoring.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Our Tutoring Program
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-612843035589597244" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/request-a-tutor.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Request a Tutor
+		</span>
+	</a>
+	
+</li>
+<li id="wsite-nav-491753218706977610" class="wsite-menu-subitem-wrap ">
+	<a href="https://www.bridgingtech.org/become-a-tutor.html" class="wsite-menu-subitem">
+		<span class="wsite-menu-title">
+			Become a Tutor
+		</span>
+	</a>
+	
+</li>
+
+	</ul>
+</div>
+
+    		</li>
+    </ul>
+  </div>
+
+	<script type="text/javascript" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/plugins.js"></script>
+  <script type="text/javascript" src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/custom.js"></script>
+    <div id="customer-accounts-app"></div>
+    <script src="./BRIDGING TECH - The Bridging Tech Charitable Fund _ Nonprofit for Kids_files/main-customer-accounts-site.js"></script>
+<div id="dialog-region"></div>
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		// NOTE: keep the [1] if you replace this code. Otherwise cookie banner scripts won't be first on the page
+		var s = document.getElementsByTagName('script')[1]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+</script>
+
+<script type="text/javascript" async="1">
+	// NOTE: keep the getElementsByTagName(o)**[1]** if you replace this code. Otherwise cookie banner scripts won't be first on the page
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[1];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '132100490';
+	_W.Analytics.site_id = '997528044963189050';
+
+	var drSegmentsTag = document.getElementById('drSegments');
+	if (drSegmentsTag) {
+		_W.Analytics.spContexts = _W.Analytics.spContexts || [];
+
+		var segmentData = JSON.parse(drSegmentsTag.innerText);
+		segmentData.forEach(function(test) {
+			_W.Analytics.spContexts.push({
+				schema: "iglu:com.weebly/context_ab_segment/jsonschema/1-0-0",
+				data: {
+					test_id: test.name,
+					segment: test.variant,
+				}
+			});
+		});
+	}
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			},
+			respectDoNotTrack: true
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id, _W.Analytics.spContexts);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		true
+	);
+</script>
+
+
+
+
+
+<script>
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+<script>
+	window._W.isEUUser = false;
+	window._W.showCookieToAll = "";
+</script>
+
+<script>
+	(function(jQuery) {
+		try {
+			function forceShowCcLinks() {
+				var ccLinks = document.querySelector('.cc_links');
+				if (!ccLinks) {
+					return;
+				}
+
+				var ccLinksVisible = jQuery(ccLinks).is(':visible');
+				if (ccLinksVisible) {
+					return;
+				}
+
+
+				ccLinks.style.display = 'block';
+
+				var ccParent = ccLinks.parentElement;
+
+				var ccParentVisible = jQuery(ccParent).is(':visible');
+				if (ccParentVisible) {
+					return;
+				}
+
+				ccParent.style.display = 'block';
+
+				var ccGrandparent = ccParent.parentElement;
+				var ccGrandparentVisible = jQuery(ccGrandparent).is(':visible');
+				if (ccGrandparentVisible) {
+					return;
+				}
+				ccGrandparent.style.display = 'block';
+
+			}
+
+			function forceShowCcLinksForever() {
+				var tenSeconds = 10000;
+				forceShowCcLinks();
+				setTimeout(forceShowCcLinksForever, tenSeconds);
+			}
+
+			jQuery(document).ready(forceShowCcLinksForever);
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+
+	
+
+</body></html>
